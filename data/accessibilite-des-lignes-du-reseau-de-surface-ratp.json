@@ -1,0 +1,5440 @@
+[
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b8d8eb42b56ee7e0c40726d58824beb4ac147785",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PALAIS ROYAL - MUSEE DU LOUVRE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "48",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DES LILAS",
+				"code_stif" : 1001000480001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3180a91708f46e29d17d0f8b38abcda2f73b58fa",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATEAU DE VINCENNES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "46",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DU NORD",
+				"code_stif" : 1001000460001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2aa362c31368fd5166031426972258a71f443aef",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "EGLISE DE PANTIN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "61",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE D'AUSTERLITZ",
+				"code_stif" : 1001000610001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "bab7cfbb46ad1ad8038ff968401814d402927e89",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE LA MUETTE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "63",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DE LYON",
+				"code_stif" : 1001000630001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b8e2d05c470d519a5ea733d237dfaf46fd5ec959",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATILLON METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "68",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PLACE DE CLICHY",
+				"code_stif" : 1001000680001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "12ab0b6a9f31c5e7bfeb15a8ce7a782203a35d5f",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "FRERES VOISIN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "39",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DU NORD",
+				"code_stif" : 1001000390001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "43ad4fb16e57d7e096635b8824dfa8253ac6c599",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BAGATELLE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "43",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DU NORD",
+				"code_stif" : 1001000430001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "997d97114a57eb925c36ab751e53602bccbb56c3",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPS DE MARS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "69",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GAMBETTA",
+				"code_stif" : 1001000690001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7d827c682c9c597c9bf6c9df2ae7684927e59976",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MUSEE DE L'AIR ET DE L'ESPACE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "148",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PABLO PICASSO-METRO-TRAMWAY",
+				"code_stif" : 1001001480001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e012bae62246ba2b6d69d362882a448050c9f2db",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOPITAL DE MONTFERMEIL",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "347",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE BONDY - AVENUE DE ROSNY",
+				"code_stif" : 1001003470001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "12c1ff0607f10c50f1c717219fd77086212c678f",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "GARE DE VERSAILLES - RIVE DROITE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "471",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LES COTEAUX-TRAMWAY",
+				"code_stif" : 1001004710001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7091c8bd3f697f781fbfd206333cab3d67896330",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MARCHE DES MORTEFONTAINES",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "356",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "SAINT-DENIS - UNIVERSITE",
+				"code_stif" : 1001003560001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ff87fa097c8dec611ba2b35217260f4477e161fe",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BOURG-LA-REINE RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "394",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "ISSY-VAL DE SEINE RER-TRAMWAY",
+				"code_stif" : 1001003940001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "00bf01fa543a9fafad573b604a58ae2de50b0989",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BOURG LA REINE-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "388",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHATILLON MONTROUGE-METRO",
+				"code_stif" : 1001003880001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "005a2f7df0d9044a042c8c9166c5137310c8fc15",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BELLE EPINE SUD",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "396",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA CROIX DE BERNY RER",
+				"code_stif" : 1001003960001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7367a23e460c8e77791c9040902f189495434b00",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARGES - SARCELLES RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "368",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARGES - SARCELLES RER",
+				"code_stif" : 1001003680001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f67a23de5da3fe89ebb6cd3bb7bc4f19c5723792",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ANTONY RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "395",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "REAUMUR - DESCARTES",
+				"code_stif" : 1001003950001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d9f7288e5f38595ff66e437bfa8dc37ecf0714f1",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROISSYPOLE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "350",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DE L'EST",
+				"code_stif" : 1001003500001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5de965bd8a3e28eb73d0ce72be41a1107cdf8a51",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE LA CHAPELLE-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " PC3     ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE MAILLOT - PERSHING",
+				"code_stif" : 1001000990001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "bf7f3aec07654c6a4f4656de841c882f26d5bcc2",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NOISY-LE-GRAND - MONT D'EST RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "120",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "NOGENT SUR MARNE-RER",
+				"code_stif" : 1001001200001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e655a1d129496febc988dcaf24041540e410e597",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE DES PAVILLONS SOUS BOIS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "105",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DES LILAS-METRO",
+				"code_stif" : 1001001050001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "34beab8cd8812605e9d712ebefc85068d611f8f8",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE VILLIERS SUR MARNE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "110",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "JOINVILLE LE PONT-RER",
+				"code_stif" : 1001001100001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d4d5394a667d8bd218fd8468aeeb8434fc840941",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VILLEMOMBLE-LES COQUETIERS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "114",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHATEAU DE VINCENNES",
+				"code_stif" : 1001001140001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "188129e71e5bf64ea7d00700b90d472ec3d3cdd7",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CLICHY - BERGES DE SEINE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "74",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "HOTEL DE VILLE DE PARIS",
+				"code_stif" : 1001000740001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ee51980e912a8557e165f2b84a31d628d8a8f4c2",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAINT-MANDE - DEMI LUNE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "86",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "SAINT-GERMAIN-DES-PRES",
+				"code_stif" : 1001000860001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "118b156798a36eda36e67d51d457921f77c5de62",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RADIO FRANCE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "70",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "HOTEL DE VILLE DE PARIS",
+				"code_stif" : 1001000700001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5dcf67ddccdb8c53145ed2a864bb3fb3458cab8b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "TERROIRS DE FRANCE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "109",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LIBERTE-CHANZY",
+				"code_stif" : 1001001090001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f76c4e63148253c47f52ea8362005c3eb22499d6",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE SAINT-OUEN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "81",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHATELET",
+				"code_stif" : 1001000810001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "08d01b3b214c0fe297b8a415f486221567e31e03",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NOISY LE GRAND-MONT D'EST-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "306",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SAINT MAUR-CRETEIL-RER",
+				"code_stif" : 1001003060001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9b52a81c91bca7e2bc20cb506ebf63f4b5beb0dd",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOTEL DE VILLE D'ATTAINVILLE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "269",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARGES-SARCELLES RER",
+				"code_stif" : 1001002690001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2a96ebec8e20dce23d3b2d126e247fb0c2bd8f7f",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CIRCULAIRE NOISY CHAMPS-RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "312",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CIRCULAIRE NOISY CHAMPS-RER",
+				"code_stif" : 1001003120001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9146623fcc1c2505f83b6687fb1d0e5cb7ae6363",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LES BRUYERES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "278",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001002780001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a6fc5241ca66ff053f52ceff5da26219aba01117",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE MAISONS-LAFFITTE-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "262",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PONT DE BEZONS",
+				"code_stif" : 1001002620001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0e08638a8aebde720f52df25ca497d914231ecc8",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PLACE LUCIEN BOILEAU",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "299",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE D'ORLEANS-METRO",
+				"code_stif" : 1001002990001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "87bebf37798d8088b3245692334984793100a609",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUEIL-MALMAISON RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "241",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'AUTEUIL-METRO",
+				"code_stif" : 1001002410001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "57a691b4a7e1429048122b14dc1c8d9fce9f3a34",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GAGNY-POINTE DE GOURNAY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "221",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GALLIENI-METRO",
+				"code_stif" : 1001002210001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "aa0ed151687f0d5f04ebf3566fb6b0271e177b83",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "L'ARGENTIERE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "333",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARGES LES GONESSES-RER",
+				"code_stif" : 1001003330001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3cf6d36646c2ec78214d764bbb89215844181413",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "TORCY RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "220",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BRY SUR MARNE-RER",
+				"code_stif" : 1001002200001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cb8399eed8cd524011425cd7c215907d91527b78",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUE MARTRE - MAIRIE DE CLICHY.",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " TUC     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "RUE MARTRE - MAIRIE DE CLICHY",
+				"code_stif" : 1001005740001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "20c772d8c809cc682413ea57c4ce374a85c307e9",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT DE BILLANCOURT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " SUBB    ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "HOTEL DE VILLE DE BOULOGNE",
+				"code_stif" : 1001005710001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "933399b580aabe35cd87550dbc0d7fb2448bdf06",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOTEL DE VILLE DE MALAKOFF",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "597",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CIMETIERE INTERCOMMUNAL",
+				"code_stif" : 1001005970001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f20825b43ccae1cd1fd2776fc88bc76d7e29747e",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SURESNES DE GAULLE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "563",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PLACE DE LA BOULE - GAMBETTA",
+				"code_stif" : 1001005630001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9fa52111eefb0c39f4b02a1bc28b52b1c6af564d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "VAL DE FONTENAY-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "524",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LES PARAPLUIES-VAL DE FONTENAY",
+				"code_stif" : 1001005240001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "abd7c384f0b686407258e77e644dfbe055325479",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PLACE DE LA BOULE - GAMBETTA",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "560",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "DROITS DE L'HOMME",
+				"code_stif" : 1001005600001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c04c2c23e6b8ba88e46fe5dc59917cb377bb20d3",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOPITAL BICHAT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "518",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "TRAVERSE BATIGNOLLES - BICHAT",
+				"code_stif" : 1001005180001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b0f888fd1aa73d2ee13135f04a8173c21fce337c",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NOYER RENARD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "485",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "DELALANDE PASTEUR",
+				"code_stif" : 1001004850001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3ba0544e2e2b73be7aa4a9e832f2a393ecbb6b89",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE LYON",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N34     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "TORCY RER",
+				"code_stif" : 1001007570001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e43879feb9777824f376a85fd9f7c3d6d7657d22",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATELET",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N24     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GRAND CERF",
+				"code_stif" : 1001007510001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "52bbcf5d8a469d0992080573c6559e8902495456",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VILLIERS LE BEL - ARNOUVILLE RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "370",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MARCHE DE SAINT-BRICE",
+				"code_stif" : 1001003700001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ba991c228c2a83a2ebde3760021efc9d76b3ad90",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE LYON - DIDEROT",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N35     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "NOGENT-LE-PERREUX RER",
+				"code_stif" : 1001007730001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "facfb49f86f0d7a87fc90aaaa13b9fb1ab4b2f53",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "GARE D'AUSTERLITZ",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "10",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BOULOGNE - PONT DE SAINT-CLOUD",
+				"code_stif" : 1001100100001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a694c0a928c98c391fcdf9f99b7a2e33ae4921a1",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATELET",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N122    ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SAINT-REMY-LES-CHEVREUSE RER",
+				"code_stif" : 1001007900001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "289dc4933ea19a04df24aba0a162dee5b0622275",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE L'EST",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N41     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SEVRAN - LIVRY-RER",
+				"code_stif" : 1001007720001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e7bb397b617164a93e9654f22a9b861eb95808cc",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "PLACE D'ITALIE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "5",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BOBIGNY - PABLO PICASSO",
+				"code_stif" : 1001100050001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5a2c005c51ad4dba0614d3213952253d4cf1e50e",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE MONTPARNASSE.",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N02     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE MONTPARNASSE",
+				"code_stif" : 1001007760001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "39a7f23973d4d60b831ae653107183443231e6c1",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "PR\u00c9 SAINT-GERVAIS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "7 Bis",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LOUIS BLANC",
+				"code_stif" : 1001101070001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4195715b516cf75ededa522ff247aaaa6b7a3054",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA D\u00c9FENSE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "1",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CH\u00c2TEAU DE VINCENNES",
+				"code_stif" : 1001100010001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cf5bc45400e669a6e0092af5eb4cbd47766dcc21",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "GARE HAUTE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "Funiculaire",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE BASSE",
+				"code_stif" : 1001101000001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "711a7aa62a1a71ff2fa8db884e4960b151bdbb2e",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PREFECTURE DU VAL DE MARNE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "117",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHAMPIGNY-SAINT MAUR-RER",
+				"code_stif" : 1001001170001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9ceeee7fbf8427640217ba17e2073d7a22d089ac",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ZAC DES TULIPES NORD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "152",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE LA VILLETTE-METRO",
+				"code_stif" : 1001001520001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "429bb24157fb2ccb708a6e56627cf933d3c497ef",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BOULEVARD DE LA SEINE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "157",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PONT DE NEUILLY-METRO",
+				"code_stif" : 1001001570001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a37d10bb6b24ed821d2b51e9430e2399bb90bf8b",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MASSY - OPERA-THEATRE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "197",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ORLEANS-METRO",
+				"code_stif" : 1001001970001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "697b370ddd6060e0bb311e5de73447be2f238883",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "FORT D'AUBERVILLIERS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "173",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE CLICHY-METRO",
+				"code_stif" : 1001001730001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b6926b75f809f345969f6ad7dace7f5be1358753",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GABRIEL PERI-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "175",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE SAINT-CLOUD",
+				"code_stif" : 1001001750001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "dca336769a660ab385337a16657a168b0bfb34e7",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUEIL - VILLE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "163",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE CHAMPERRET-METRO",
+				"code_stif" : 1001001630001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "22aabc19d0c5aabb614d7457bafc0f3484ba9d7d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA ROCADE-LYCEE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "199",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MASSY-PALAISEAU-RER",
+				"code_stif" : 1001001990001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7ae4e1c35ccf205374f801c19403371f04ce0765",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROBINSON RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "179",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PONT DE SEVRES-METRO",
+				"code_stif" : 1001001790001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f0d476ea375524019b90c52e5840e07e57749802",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PASTEUR",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "184",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE D'ITALIE-METRO",
+				"code_stif" : 1001001840001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "81f05c1f814f82202a5a4612dad437dca946667e",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "ROBINSON \u2022 ANTONY \u2022 SAINT-R\u00c9MY-L\u00c8S-CHEVREUSE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "RER B",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "A\u00c9ROPORT CHARLES DE GAULLE \u2022 MITRY - CLAYE",
+				"code_stif" : 1001110020001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "408b03560a7e925ab0c68dda11dbff0e1734fa91",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "VILLEJUIF - LOUIS ARAGON \u2022 MAIRIE D'IVRY",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "7",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA COURNEUVE - 8 MAI 1945",
+				"code_stif" : 1001100070001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "673e04d0cf57a00f910f180f136368179e77fb3b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NATION - PLACE DES ANTILLES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "26",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE SAINT-LAZARE",
+				"code_stif" : 1001000260001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "65e97b769eeff9e44514658b2be1657dc78a1663",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE L'EST.",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "35",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MAIRIE D'AUBERVILLIERS",
+				"code_stif" : 1001000350001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e56a8721aee9319965bcde5efefdc78c93f0bf00",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE SAINT-LAZARE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "28",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE D'ORLEANS",
+				"code_stif" : 1001000280001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4877b7323c0282d6a95b42b42fcec21a237a815e",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE LYON",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "20",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE SAINT-LAZARE",
+				"code_stif" : 1001000200001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "1fd005ab0278efc739c2c0738051095d4b406bcc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE D'ORLEANS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "38",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DU NORD",
+				"code_stif" : 1001000380001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "bdf5f936822007a565e20cbfa855b7d91430b6ef",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT DE LEVALLOIS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "53",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "OPERA",
+				"code_stif" : 1001000530001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b265469e55d69c4db69799dab7e258fdb6f3b93d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE CHAMPERRET",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " PC1     ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PT DU GARIGLIANO - HOP G. POMPIDOU",
+				"code_stif" : 1001000970001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d040e2e1a390d76a78d63dd5b020d02e347dcc65",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA PIE-ST MAUR",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "107",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "ECOLE VETERINAIRE DE MAISONS-ALFORT",
+				"code_stif" : 1001001070001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e22a881b56cf9485f25048f9527f50fd9a13f9b9",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPIGNY-SAINT-MAUR RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "111",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "TERROIRS DE FRANCE",
+				"code_stif" : 1001001110001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4b3bda89c1c8a304c360b3270504b6d22d6fd0b0",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PARC DE SAINT CLOUD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "72",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "HOTEL DE VILLE DE PARIS",
+				"code_stif" : 1001000720001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8ae7837632af08e0865f04143f7d4bae120e6f94",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GABRIEL PERI-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "54",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'AUBERVILLIERS",
+				"code_stif" : 1001000540001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f039fde26ac4fb859973714dcbad639a7b7eb781",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PLACE D'ITALIE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "64",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GAMBETTA - MAIRIE DU 20E",
+				"code_stif" : 1001000640001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "6fc114dd50d101a5bb062358e28fa122c9a6f66d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BAGNOLET-LOUISE MICHEL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "76",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LOUVRE - RIVOLI",
+				"code_stif" : 1001000760001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "59e4a93f667133ccb2e79e9377a05f0afc8032f2",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE DE SAINT-OUEN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "85",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LUXEMBOURG",
+				"code_stif" : 1001000850001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "814f1026c859668b7108d58b6d523d99c5caf348",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DES LILAS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "96",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE MONTPARNASSE",
+				"code_stif" : 1001000960001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f12f0769b46428371368e72c58defec0c3321240",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SURESNES-DE GAULLE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "93",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "INVALIDES",
+				"code_stif" : 1001000930001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5aa10db3cc2f2f3247243cdc8bb3b7cdb7b49ba5",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUEIL-MALMAISON RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "144",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001001440001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f1d193359d98583688f2a7807f09615faa95caba",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CENTRE COMMERCIAL CHELLES 2",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "113",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "NOGENT-SUR-MARNE RER",
+				"code_stif" : 1001001130001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "01bf739ec231bcbad637a3fcceb2a46fa98f8aad",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUNGIS - LA FRATERNELLE RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "131",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE D'ITALIE-METRO",
+				"code_stif" : 1001001310001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "82132bd351f3266e315ee224fa1ba279124dbb8c",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CIMETIERE DE VILLEMOMBLE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "145",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "EGLISE DE PANTIN-METRO",
+				"code_stif" : 1001001450001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b1762a0ee5b7ed0f62a12077db6683ef1ab3cb56",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ZONE INDUSTRIELLE NORD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "137",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE CLIGNANCOURT",
+				"code_stif" : 1001001370001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b73ab7b0df0ac6763d9fa8b0d7f14927b2c4ab8f",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE DE MONTREUIL-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "129",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DES LILAS-METRO",
+				"code_stif" : 1001001290001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "1ba516a99813e81618c52247645590061743e856",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LYCEE GEORGES CLEMENCEAU",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "121",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MAIRIE DE MONTREUIL",
+				"code_stif" : 1001001210001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "39792336ba8cf39e39596571f7ad57f3df9b9a00",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VAN DERHEYDEN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "118",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHATEAU DE VINCENNES",
+				"code_stif" : 1001001180001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3f01f9bd8e254f8f3e507978a47fb9b6cb8254f2",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ABBAYE CIMETIERE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "119",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LES BACONNETS-RER",
+				"code_stif" : 1001001190001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "95026b020d3d0338695ba0f767ec9de600bf46f0",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE D'ARGENTEUIL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "140",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GABRIEL PERI-METRO",
+				"code_stif" : 1001001400001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7ff6057f9e97770a252ae10d33cf317358b81669",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT DE SEVRES-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "169",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "HOPITAL EUROPEEN GEORGES POMPIDOU",
+				"code_stif" : 1001001690001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "349734f33578a30185a7866eebb7da5061cc8a47",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GENNEVILLIERS RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "178",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001001780001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "1b2dc0604eeae58de6a19f9003e0a75b148b65d1",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NANTERRE-PREFECTURE RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "160",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE SEVRES-METRO",
+				"code_stif" : 1001001600001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "975bab9828b0759b1a3f91b34e3f54b72c93274d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "AEROPORT D'ORLY-TERMINAL SUD",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "183",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE CHOISY",
+				"code_stif" : 1001001830001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e36ceac31f6b3cfcf03e6ddac4d0abc32f736bcb",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SEVRAN-AVENUE RONSARD",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "147",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "EGLISE DE PANTIN-METRO",
+				"code_stif" : 1001001470001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "52d82d9d4f972adf9a1426ef05cc67ec46a8fe99",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CRETEIL-GAITE RN 19",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "181",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "ECOLE VETERINAIRE-METRO",
+				"code_stif" : 1001001810001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b7edfbf4b8bca33f01e19b4bf685d136c078d0d4",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATEAU DE VERSAILLES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "171",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PONT DE SEVRES-METRO",
+				"code_stif" : 1001001710001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9ef9000ff8489cbc427753289231f8f63bb5d80a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUEIL-MALMAISON RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "158",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PONT DE NEUILLY-METRO",
+				"code_stif" : 1001001580001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c9d066eba6093f108ca18d6370e6783c61aba818",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LOUIS ARAGON-METRO",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "180",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHARENTON ECOLES-METRO",
+				"code_stif" : 1001001800001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cf9f36a769555efc9ae3014edb751b53cc015383",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "JOUHAUX - BLUM",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "151",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE PANTIN",
+				"code_stif" : 1001001510001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ec5398d78d24f21395105851d2e6eb5e1c22c7a2",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "BOISSY-SAINT-L\u00c9GER \u2022 MARNE-LA-VALL\u00c9E",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "RER A",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "SAINT-GERMAIN-EN-LAYE \u2022 POISSY \u2022 CERGY",
+				"code_stif" : 1001110010001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "190a3b61beae9505dccf8eccd4ec61310904c9aa",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE SAINT-LAZARE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N53     ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "NANTERRE - UNIVERSITE RER",
+				"code_stif" : 1001007700001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b6d5720516606b9e863be8ed185a435066e0b179",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE D'ISSY-METRO",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N13     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BOBIGNY - PABLO PICASSO",
+				"code_stif" : 1001007840001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8f7b33843e29905cec6f6da8faedf6ca0d10ced2",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAINT-DENIS - PORTE DE PARIS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "T8",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "EPINAY - ORGEMONT",
+				"code_stif" : 100112018001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "723f3a31da5779dd84989978b303a7bc27ae902f",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATELET",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N22     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MARCHE INTERNATIONAL DE RUNGIS",
+				"code_stif" : 1001007680001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4ef0e23cbf74a23ff6f4e1d170aee12d8fb9fd93",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATELET",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N21     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PLACE DE LA LIBERATION",
+				"code_stif" : 1001007600001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f50bade2975c1bc1c55eb4b55d59af5d2e3d0c38",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GALLIENI",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "3",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PONT DE LEVALLOIS - B\u00c9CON",
+				"code_stif" : 1001100030001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ef2ec68fed603b102f29cd04df88cf72bd333db3",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VILLIERS SUR MARNE-LE PLESSIS-TREVI",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "308",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PREFECTURE VAL DE MARNE",
+				"code_stif" : 1001003080001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "55f76fadba3aa7ac8bb53cf5c8b24904107775b7",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "R. QUENEAU-METRO-ANATOLE FRANCE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "330",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "FORT D'AUBERVILLIERS-METRO",
+				"code_stif" : 1001003300001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2f28924cf9dbbf5ba1fc24da371d226944e3075d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATEAU DE VINCENNES",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "325",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "BIBLIOTHEQUE FRANCOIS MITTERRAND",
+				"code_stif" : 1001003250001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b8437aa6169b0511263dcd2d1fc3dc64a7a99787",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "IVRY-SUR-SEINE GAMBETTA",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "323",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "ISSY-VAL DE SEINE-RER-TRAMWAY",
+				"code_stif" : 1001003230001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3ba02723806c7d8679ba9db44166e02a624ffcd1",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "276",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LES COURTILLES",
+				"code_stif" : 1001002760001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "39af631fa1d8122cb266e9edbab654a9efd5f128",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RAYMOND QUENEAU -METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "318",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHATEAU DE VINCENNES",
+				"code_stif" : 1001003180001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "eebf0954b3b873bf066dc10d789a5ebe1b2aa422",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CROISSY-BEAUBOURG - Z.I. PARIEST",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "321",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LOGNES RER",
+				"code_stif" : 1001003210001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ec6793cae2c9d4463d552827f833cab59aa996ce",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE D'ARGENTEUIL",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "361",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "SAINT-DENIS - UNIVERSITE",
+				"code_stif" : 1001003610001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "59a09836d8539031eda00b580f488c143186417f",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT ROYAL-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "391",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHATILLON MONTROUGE METRO",
+				"code_stif" : 1001003910001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "837e420d62d89671fce0d3f212431792930be247",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUEIL-MALMAISON RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "367",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE BEZONS",
+				"code_stif" : 1001003670001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a0d6070a309674ba224116d1c6d2042dcfec0e50",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOPITAL DE LA QUEUE EN BRIE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "207",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "NOISY LE GRAND MONT D'EST-RER",
+				"code_stif" : 1001002070001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b00dc23b94dde59e41420b1153a7a365e0daed04",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VILLIERS LE BEL - ARNOUVILLE RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "270",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARGES - SARCELLES RER",
+				"code_stif" : 1001002700001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5063a82e60cf90ebe4183cd1560a984ad62eb128",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPIGNY - SAINT-MAUR RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " 208A    ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PLACE DE LA RESISTANCE",
+				"code_stif" : 1001002080001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "dfffd1c20de43b2f47994a66777e9b43405bc0e0",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARGES LES GONESSE-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "252",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE LA CHAPELLE-METRO",
+				"code_stif" : 1001002520001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d06478dc9284cc2af627875031b16add1f80a17b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE DE LIVRY-GARGAN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "234",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "FORT D'AUBERVILLIERS-METRO",
+				"code_stif" : 1001002340001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cef199bfb1f4557809413985edd5ee0070290104",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPIGNY - SAINT-MAUR RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " 208S    ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHAMPIGNY - SAINT-MAUR RER",
+				"code_stif" : 1001002080001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "97186cfbc2266aba60d57545bf6ae6ed9042665b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CLAMART-PLACE DU GARDE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "191",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE VANVES-METRO",
+				"code_stif" : 1001001910001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8ed136917066f63b5743aa9781451c3ca365ca2a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "AULNAY SOUS BOIS-GARONOR",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "247",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "STADE CHARLES SAGE",
+				"code_stif" : 1001002470001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d693057c49503246238447b472ea911395e4e4cc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ILE DE FRANCE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "203",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "NEUILLY-PLAISANCE RER",
+				"code_stif" : 1001002030001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "90cab038cd7da810ad5f1626a8a0355410a077fc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MEDIATHEQUE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "239",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE D'AUBERVILLIERS",
+				"code_stif" : 1001002390001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "55fab6181e1d613e4b1951f90730db9036ca2d01",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE D'ISSY-METRO",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " TUVIM   ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CIRCUITS GRAND ISSY ET CENTRE",
+				"code_stif" : 1001005890001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d18b5a6b732c361986d521f8a6d0e3dc008ab178",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "LECLERC - THOMAS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " V6      ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SERVICE URBAIN DU KREMLIN BICETRE",
+				"code_stif" : 1001005930001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "df106a198a92863c7ae6d0013af42cd0f9a2584e",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE LYON",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N33     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "VILLIERS - LE PLESSIS-TREVISE RER",
+				"code_stif" : 1001007580001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "1071d2b5381e0a15e6af1edd42b46101e7e55711",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "MAIRIE DE CHATILLON",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " AMIBUS  ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHATILLON METRO",
+				"code_stif" : 1001005920001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "58cf11ae953110447a089687ceabc25e8c441a6b",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "SU CIRCULAIRE FONTENAY",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "594",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "DIVISION LECLERC.",
+				"code_stif" : 1001005940001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "78ae14770feb1671b6becf2b56dad72385e89aae",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE SAINT-LAZARE.",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N52     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE D'ARGENTEUIL",
+				"code_stif" : 1001007520001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e573709c85e8bea0da813e9c14a503595c3f107e",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "ESCADRILLE NORMANDIE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "548",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "COLLEGE LIBERTE",
+				"code_stif" : 1001005480001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3137a981d2483b394a01c535eb1af90ef3ae1a8a",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOTEL DE VILLE.",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " NAVETTE ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "HOTEL DE VILLE",
+				"code_stif" : 1001005760001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7f4787d0affda2e00b2e845c362141533fed1e2c",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "NOISY LE SEC RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "545",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LOUISE MICHEL",
+				"code_stif" : 1001005450001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c7f10fa67b3287b6a17346625bf4ccc8264a704e",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROBINSON RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "595",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA BOURSIDIERE",
+				"code_stif" : 1001005950001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7f7d97c4d161d28c99a7fa4fc9b25977eb341da7",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ECOLE VETERINAIRE DE MAISONS-ALFORT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "24",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE SAINT LAZARE",
+				"code_stif" : 1001000240001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "610d9c4c2ea7d9346c8a4d644e45cfc3acaef313",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LAPLACE RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "57",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE BAGNOLET - LOUIS GANNE",
+				"code_stif" : 1001000570001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "bb6fa6baa2a19acc440ded828c6f7226e7cccfe8",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE CHAMPERRET",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "84",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PLACE DU PANTHEON",
+				"code_stif" : 1001000840001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "6ad0b9161e7644053a7aadc0b27f481f9a7ae328",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATELET",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "58",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "VANVES-LYCEE MICHELET",
+				"code_stif" : 1001000580001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0d9449031cd13b80edfab84355553274594987dd",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE REUILLY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "87",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHAMP DE MARS",
+				"code_stif" : 1001000870001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "46f174a1039414f7d8d7806b2c7f6a1550dd3a65",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE D'AUTEUIL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "32",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DE L'EST",
+				"code_stif" : 1001000320001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "be6e2ec73836e946244e8af798dd52b70fa1840a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE D'IVRY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "27",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE SAINT-LAZARE",
+				"code_stif" : 1001000270001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d2fae17710d1815821c55f304d594b5f1d59e22b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE MONTMARTRE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "60",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GAMBETTA",
+				"code_stif" : 1001000600001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9b1fdfbbf851f5aad5acf8c40142120d45ca067e",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PLACE DE LA LIBERATION-BLANC MESNIL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "346",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "ROSNY 2 - NORD",
+				"code_stif" : 1001003460001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c68be0924ec47f625942aef1fb8e145d274c432d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BOBIGNY-PABLO PICASSO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "303",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "NOISY LE GRAND MONT D'EST-RER",
+				"code_stif" : 1001003030001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b7f5fc6aabe33246a0740518d196080564270835",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUNGIS-MARCHE INTERNATIONAL",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "319",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MASSY-PALAISEAU RER",
+				"code_stif" : 1001003190001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "872075e9d8f35e36f040b1d5c4999028c112cdb0",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ZONE INDUSTRIELLE (PASTEUR)",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "290",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "ISSY - VAL DE SEINE",
+				"code_stif" : 1001002900001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "911c674a383a42ef53b59284f8850d236aa473e9",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BOBIGNY-PABLO PICASSO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "322",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MAIRIE DE MONTREUIL",
+				"code_stif" : 1001003220001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3ff17b99caf9a64a012d3e853a24f68b4f2ef77a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PLACE CHARLES STEBER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "297",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE D'ORLEANS-METRO",
+				"code_stif" : 1001002970001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "60592fb2560680cc54e447217c8b046825faf4cf",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE SARTROUVILLE-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "272",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE D'ARGENTEUIL",
+				"code_stif" : 1001002720001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "63c5f033e5fd83da8e61dea333d73953534e0875",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PABLO PICASSO-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "301",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "VAL DE FONTENAY-RER",
+				"code_stif" : 1001003010001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "47df0f1b995ac92cc4ccacb54436a5176257867f",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "CIRCULAIRE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "355",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LYCEE DE LA TOURELLE",
+				"code_stif" : 1001003550001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "73158a872a585de23635d8bfc22483f2ce3c3ced",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROISSYPOLE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "351",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "NATION",
+				"code_stif" : 1001003510001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "52799874024965f6db93075da9b990b1259c8e05",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "MONASTERE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "572",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SEVRES-VILLE D'AVRAY - GARE SNCF RIVE DROITE",
+				"code_stif" : 1001005720001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9889b302a0ed02da11d2dd223c7db90939036128",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "MAISON DE QUARTIER - ANDRE CHARRE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "579",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DE CLAMART",
+				"code_stif" : 1001005790001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c1bb7bc33004dd2a4086f26f7168b5c6d09149b4",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "CIRCULAIRE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " CHOISYB ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SERV URBAIN DE CHOISY LE ROI",
+				"code_stif" : 1001005820001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "637be1f30f084b13dce2fac94ff3e09c88cc0c1d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CIMETIERE DU MONT VALERIEN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "559",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHEMIN DE L'ILE",
+				"code_stif" : 1001005590001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "1f288bae7e30654472d8f4dee135ef47b85f5009",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "COLLEGE LA MALMAISON.",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "564",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "COLLEGE LA MALMAISON",
+				"code_stif" : 1001005640001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d8e24cc318cef3ab0f92493b5a734ba025243342",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GABRIEL PERI-METRO",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "577",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GENNEVILLIERS RER",
+				"code_stif" : 1001005770001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ff30f5ee0276ae0d1b7033d1be1bcc0659157057",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "EGLISE DE BUZENVAL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "565",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MAIRIE DE RUEIL",
+				"code_stif" : 1001005650001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "722b60827bf3e23c79651451c0e1f6b0b8c65bbe",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LOUIS ARAGON-METRO",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "580",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LAPLACE RER",
+				"code_stif" : 1001005800001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ed29f1fb2fac97519c1d1c4c6910eb87479fd42b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "RUE PAUL HOCHART",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " V2      ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PASTEUR",
+				"code_stif" : 1001005830001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cfbba0cc40d75f32230dc87dc944da26461459d5",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "CENTRE VILLE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " V3      ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SU CACHAN",
+				"code_stif" : 1001005810001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "342daa163521ca34ea9aa18cdb8b3277d5236cbe",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MARCHE INTERNATIONAL DE RUNGIS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N71     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SAINT-MAUR-DES-FOSSES RER",
+				"code_stif" : 1001007710001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "dd6b40eaa4c0576005b81b4fb35b1ce513f603e9",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE SAINT-LAZARE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N153    ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SAINT-GERMAIN-EN-LAYE RER",
+				"code_stif" : 1001007910001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c94037839190086c2ffcc3cf898866dc15bab0d6",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE DE SAINT-OUEN",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N14     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MAIRIE DE SAINT-OUEN",
+				"code_stif" : 1001007830001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e4ae39ba0b97f162fe2a63d9436e04042ce61e9a",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "PORTE D'ORL\u00c9ANS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "4",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE CLIGNANCOURT",
+				"code_stif" : 1001100040001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "20a53b3b172b1350a327117b69f2cbf49b8e3702",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ISSY - VAL DE SEINE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "T2",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA D\u00c9FENSE",
+				"code_stif" : 1001120120001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "dfab088b4043d429dfabcaf4cdd51a8d1f6d18e2",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "PORTE DES LILAS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "3Bis",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GAMBETTA",
+				"code_stif" : 1001101030001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8d3c4f3b3e23dddd3514484d4cd69e21c9894ab0",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "CR\u00c9TEIL - PR\u00c9FECTURE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "8",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BALARD",
+				"code_stif" : 1001100080001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "831ed7517cd3b47e92a688d8218600aa2f4d466f",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ORLY - SUD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "OrlyVal",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "ANTONY",
+				"code_stif" : 1001102000001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9148a0c278f84974400c63e12d6629f73bbd80d4",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "ROND POINT-ROBERT SCHUMAN",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "334",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CIRCULAIRE PAVILLON SOUS BOIS",
+				"code_stif" : 1001003340001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f2b62c1bd70e77b76fe3ad9d5248a6462c028683",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAVIGNY-SUR-ORGE - CARNOT - RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "492",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PLACE DE LA LIBERATION",
+				"code_stif" : 1001004920001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "58c8353fb2d45a7e5f7012318aff6f620320903f",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "LES HAUTS DE BRY-VILLIERS SUR MARNE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "520",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BRY-SUR-MARNE RER",
+				"code_stif" : 1001005200001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d2deed048e4ff966e184b96f16d096a60a40c749",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE D'AUBERVILLIERS - OBERLE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "519",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "TRAVERSE NEY - FLANDRE",
+				"code_stif" : 1001005190001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "33c3d06f0c861bfc8c15aae9ca2d99272da847cc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SUCY-BONNEUIL RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "393",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CARREFOUR DE LA RESISTANCE",
+				"code_stif" : 1001003930001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "31ea5616ae3bfdae96103164bf2ae9df2eac2140",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CENTRE ADMINISTRATIF",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "389",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE SEVRES-METRO",
+				"code_stif" : 1001003890001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f272efcc0bb3d7674f6504c8a09f3c5bd0b46198",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA CROIX DE BERNY RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "379",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "VELIZY 2",
+				"code_stif" : 1001003790001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a9bbcdf662d308c397b674617c8bee5b2b9b83e0",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PLACE HENRI DEUDON",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "488",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "JUVISY RER",
+				"code_stif" : 1001004880001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d88c13f699885e8b466515974d87c05cae8192c3",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LES CHENES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "544",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GENERAL DE GAULLE",
+				"code_stif" : 1001005440001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "dcbe0dbfba5d9dcace799e356dec74fc2308fda2",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "LA MARE A LA VEUVE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " TUB     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BONDY",
+				"code_stif" : 1001005460001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b55fa042b9fed5e3caa1156039c280c250e0da31",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUNGIS-MARCHE INTERNATIONAL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "103",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "ECOLE VETERINAIRE DE MAISONS-ALFORT",
+				"code_stif" : 1001001030001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "fe99b2cf7e59bc90ab90fd23d5d42ba4fa569b85",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE VILLIERS SUR MARNE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "106",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "JOINVILLLE LE PONT-RER",
+				"code_stif" : 1001001060001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "da68d34f9e8c4ffa3f02b54e7e81fed1eac32e56",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROSNY-SOUS-BOIS RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "143",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LA COURNEUVE - AUBERVILLIERS RER",
+				"code_stif" : 1001001430001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "17db001042779ea9347ce0d2477f77559ac0c815",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPIGNY SUR MARNE-CAMPING",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "101",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "JOINVILLE LE PONT-RER",
+				"code_stif" : 1001001010001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "84b3f67c89355b2388afd6edcf3532c779d2d882",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAINT-DENIS RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "170",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "(PORTE DES LILAS - SAINT-DENIS RER)",
+				"code_stif" : 1001001700001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e52d4c324afa2a69e164f950dececde5557d6880",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAINT-OUEN RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "174",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001001740001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "91ba26a76bb23ba183f70eb0c32e619408ed3b7d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PETIT GENNEVILLIERS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "176",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE NEUILLY-METRO",
+				"code_stif" : 1001001760001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9827b4d159a83ea33c03d0c92d18f6bcd6caac66",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ZAC DES LOUVRESSES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "166",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE LA CHAPELLE",
+				"code_stif" : 1001001660001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b8ce5c58372ebe9dfd69d55f8c886a55ee2c8593",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE D'AUTEUIL-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "123",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MAIRIE D'ISSY-METRO",
+				"code_stif" : 1001001230001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "948735fec0b38d14ba6ede562f5acaa1cf96d5a2",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "L'ECHAT-PARKING",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "172",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "BOURG-LA-REINE RER",
+				"code_stif" : 1001001720001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "dd5f0bf60ed41959400e378459d122f10a446ca9",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "EMERAINVILLE-PONTAULT-COMBAULT RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "212",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "POINTE DE CHAMPS",
+				"code_stif" : 1001002120001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f5beafd33f07443bd744bc4e9a3d598f8ba68fc2",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE DE STAINS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "253",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "STADE DE FRANCE-SAINT DENIS RER",
+				"code_stif" : 1001002530001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "513f1f64bd92a1cdf763b7a78ac88a3ae74fc17a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOTEL DE VILLE DE CRETEIL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "217",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "RER DE VITRY-SUR-SEINE",
+				"code_stif" : 1001002170001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "73e4782eac7729dd2a140f492d756cb784965c5d",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "AULNAY SOUS BOIS-RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "251",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BOBIGNY-Z.I.BENOIT FRACH",
+				"code_stif" : 1001002510001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "856d8b75604f5c1382569e496ae419070f4c6563",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPIGNY - SAINT-MAUR RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " 208B    ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PLACE DE VERDUN",
+				"code_stif" : 1001002080001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0fdbf6cfc9037a8da24ebf071329f3b698930eba",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROND-POINT DE LA LUTECE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "255",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE CLIGNANCOURT",
+				"code_stif" : 1001002550001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0f2208bfba7dce6ed126886026593164884afea4",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MARCHE INTERNATIONAL DE RUNGIS.",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "185",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ITALIE",
+				"code_stif" : 1001001850001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8955096fe38c01637f5a18061ded98ed79fda704",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LYCEE POLYVALENT",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "194",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ORLEANS-METRO",
+				"code_stif" : 1001001940001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "194d70b5e7609417ef043ee7072772e3edb89dcc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ANTONY RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "196",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MASSY-PALAISEAU RER",
+				"code_stif" : 1001001960001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5aa9d5db9cf5ea5407ae9c0e42e2af26cd661bfa",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VELZY 2",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "190",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MAIRIE D'ISSY-METRO",
+				"code_stif" : 1001001900001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2459ba23583950a90f0a5c14c6ee3f89b977f1f0",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE D'EMERAINVILLE-PONTAULT COMBAT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "421",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DE VAIRES-TORCY",
+				"code_stif" : 1001004210001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "35d095ad19500ca00a244b695ad4c3eb65619f24",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT DE LEVALLOIS-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N16     ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MAIRIE DE MONTREUIL ROUGET",
+				"code_stif" : 1001007810001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "de97e897e9e1798ce6c0c7ff12f0c74694d93373",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "CENTRE VILLE - NELSON MANDELA.",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " COLOMBE ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SERVICE URBAIN",
+				"code_stif" : 1001005860001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f8ce4516956f9b4a84c95df9ded747b660d2087a",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE L'EST",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N43     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DE SARCELLES-SAINT-BRICE",
+				"code_stif" : 1001007660001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2cf6be78a84f01b172f53aa75b556a983fcfddfa",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VILLEJUIF-LOUIS ARAGON",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N15     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GABRIEL PERI-METRO",
+				"code_stif" : 1001007820001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8586d80b6158a199e6d9964805874f13d3129797",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT DE NEUILLY-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N11     ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHATEAU DE VINCENNES",
+				"code_stif" : 1001007800001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "55408123bd7da70d25643083789e66a1634d2c10",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE L'EST",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N44     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PIERREFITTE - STAINS RER",
+				"code_stif" : 1001007540001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cd0b24918fbb0509d3d2e720e71868b346940eca",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATELET",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N23     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHELLES - GOURNAY RER",
+				"code_stif" : 1001007560001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "17c9e0cb2af86008eeb6e0a36d0966023c4c115d",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE LYON",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N31     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "JUVISY-RER",
+				"code_stif" : 1001007590001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "76f319cc09b5dc5073c4c36f06ee2c02c3b09040",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE L'EST",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N42     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARONOR",
+				"code_stif" : 1001007550001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8fde5df4a2c55b9fa6e78ca8644b7308b519b507",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " BALABUS ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DE LYON",
+				"code_stif" : 1001000070001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "6d8596154affe7ed16347ade12cf5c8af0d64645",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PIGALLE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " MONTMAR ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MAIRIE DU 18E - JULES JOFFRIN",
+				"code_stif" : 1001000080001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "989341989b29a410d25e8e2ba4f740ff62e3cf9f",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE MONTEMPOIVRE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "29",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE SAINT-LAZARE",
+				"code_stif" : 1001000290001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8cbc3eaa4f4f3689cf1925f7af3a861baa0ab7f6",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ZAC LES GATINES - CAP JEAN D'HERS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "292",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MARCHE INTERNATIONAL DE RUNGIS",
+				"code_stif" : 1001002920001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c3ee4f1e189d70a1c5af1d35a9df401dfe07e2c4",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "ZONE ARTISANALE DU MOUTIER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "337",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PIERREFITTE - STAINS RER",
+				"code_stif" : 1001003370001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f3f18cdbf7a32f71df39c20d0a84cf2a3d4ffa63",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NOGENT-LE-PERREUX RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "317",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "HOTEL DE VILLE DE CRETEIL",
+				"code_stif" : 1001003170001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c7ac4818bb901f107cd044886cdb757fc2f754ee",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NOISY LE GRAND MONT D'EST",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "320",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "NOISY LE GRAND MONT D'EST",
+				"code_stif" : 1001003200001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b3a43ec0644ef99bca7a97c634509e688beb1660",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CLAMART - POMPIDOU",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "289",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE SAINT-CLOUD-METRO",
+				"code_stif" : 1001002890001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "09b53b970ac07d1e8ab0f8ed3b39e3b168f1d502",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROUTE DE L'ARPENTEUR-ADP",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "349",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PARC DES EXPOSITIONS",
+				"code_stif" : 1001003490001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "05080a1d1bf47be4c3f1576def7b3cdd8bac9cb8",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "JUVISY-RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "285",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "VILLEJUIF - LOUIS ARAGON",
+				"code_stif" : 1001002850001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b0b5a65c5591d4881afeb6be5af1a8bdfd14f3fc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "IGNY RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "294",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHATILLON-MONTROUGE-METRO",
+				"code_stif" : 1001002940001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a1a35920003a607f4de68e3755cc71edbe1d3201",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ANTONY RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "286",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "VILLEJUIF - LOUIS ARAGON",
+				"code_stif" : 1001002860001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "76cd35308d15aaa0c2c8aba130b60fac6545e201",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "6 ROUTES-TRAMWAY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "302",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DU NORD",
+				"code_stif" : 1001003020001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a8407883b924e71ae9ded298b85dcb8458b8fffc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ALESIA-GENERAL LECLERC",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "513",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA TRAVERSE BIEVRE-MONTSOURIS",
+				"code_stif" : 1001005130001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5fe1cd16583e3dc947f7684b7be2fcfa0a6e29d6",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOPITAL DE GARCHES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "360",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001003600001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0d6f5ab3b2f3ac49af4fb7374e4c48d7ab1e52dc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "MAIRIE DE L'HAY-LES-ROSES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " V1      ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LECLERC-THOMAS",
+				"code_stif" : 1001005420001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "fce00cc1d56a54811513869b81be34441d92290c",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CIMETIERE NOUVEAU",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "541",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CONSERVATOIRE-PRESSENSE",
+				"code_stif" : 1001005410001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cb31654f42c452a01776e035574f577284921d20",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "AEROPORT CDG (T3-ROISSYPOLE)",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " ROISSYB ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "OPERA",
+				"code_stif" : 1001003520001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0d0897780a70bbf02813ca86a770e7c8cb890efb",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "HENRI REGNAULT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "459",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DE SAINT-CLOUD",
+				"code_stif" : 1001004590001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "caaf4b6128d422e92630162f97b0bf0125a8bcf7",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LES COURTILLES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "378",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "NANTERRE-VILLE RER",
+				"code_stif" : 1001003780001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "1d20f677c0bdef164b17574dc79eceb4e6d0608e",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "DELALANDE PASTEUR",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "480",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "NOYER RENARD.",
+				"code_stif" : 1001004800001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "15d0390d27e333c373b4e3cd0529314cf8cc596a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE L'ESSONNE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "487",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "JUVISY RER",
+				"code_stif" : 1001004870001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "389337876051350d161e691b8385f1207f07f42e",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "JUVISY RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "399",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MASSY-PALAISEAU RER",
+				"code_stif" : 1001003990001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e15e2eefbb5869e69b6cc837c2494aad24d00e18",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CENTRE COMMERCIAL CHELLES 2",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "211",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "VAIRES/MARNE-GARE DE VAIRES TORCY",
+				"code_stif" : 1001002110001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "46944e0c3e2b17c76df0e3970763885e4fc3edac",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "DENFERT-ROCHEREAU-METRO-RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "216",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MARCHE INTERNATIONAL DE RUNGIS",
+				"code_stif" : 1001002160001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ac86a70bead5c998f010ce087472a5ca1ba97678",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPIGNY - SAINT MAUR RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "116",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BOIS-PERRIER RER - ROSNY 2",
+				"code_stif" : 1001001160001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e448b87f93b8cc3adc15ecc967d2055e60f63498",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CITE DU VIEUX PONT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "159",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001001590001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a379d4cd632ec94da083966ae8fbe0509e7253c1",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LYCEE DE RUEIL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "141",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001001410001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5192e097c9749764e689e6f875e5b0547879284a",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MARCHE INTERNATIONAL DE RUNGIS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "192",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "ROBINSON RER",
+				"code_stif" : 1001001920001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "671c65b5012ec6629bc82c35935028d5b59a4cff",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VILLENEUVE-TRIAGE RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "182",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MAIRIE D'IVRY-METRO",
+				"code_stif" : 1001001820001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "57d00a5c0fc86e2a2c00452bdb1cd3c15f6e1a8a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT DE LEVALLOIS-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "167",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "AUDRA",
+				"code_stif" : 1001001670001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8a91447e357fe99b8085b8321357063c46d890d9",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LES BOSQUETS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "146",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LE BOURGET-RER",
+				"code_stif" : 1001001460001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4a512476b583955ecc45b267fdef2264ba332c23",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "EUROPE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "235",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GABRIEL PERI-METRO",
+				"code_stif" : 1001002350001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "dbba22f1250f94d19b47375d326e3eb4e8fc3f95",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "GABRIEL PERI - SOLEIL LEVANT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " V5      ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SERVICE URBAIN DE GENTILLY",
+				"code_stif" : 1001005840001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8f7bffd3d9551902268e6dfc696c3f2799cf6b83",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARGES-SARCELLES RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "T5",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MARCHE DE SAINT-DENIS",
+				"code_stif" : 1001120150001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8b3ec3139b936de4d957f87d9b182873c25eab53",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE LYON",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N32     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BOISSY-SAINT-LEGER RER",
+				"code_stif" : 1001007630001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "89073c0806b69b4e23f7d3074eb43ef6d603dc64",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE MONTPARNASSE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N63     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MASSY-PALAISEAU RER",
+				"code_stif" : 1001007690001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0a5b287a55c0f59875a820a973268a6cc4bd7a25",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA GALAISE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "NAVETTE Thiais",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "FERME DE GRIGNON",
+				"code_stif" : 1001005870001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8e19334c013edd064f8e8474069bfeafc51fd5e7",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "AUBEPINES",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "556",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "ZONE ARTISANALE DU MOUTIER",
+				"code_stif" : 1001005560001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0e63eac6206b473d96de087366f9e8478f472971",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT DE SEVRES-METRO",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N12     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CARNOT",
+				"code_stif" : 1001007850001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b8e0f48f35d33297f7c82f5061b4e13b817868eb",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NOISY-LE-SEC RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "T1",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SAINT-DENIS RER",
+				"code_stif" : 1001120110001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "172c58d4dcb97cc856a643b1cf70162bebccf7ff",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "RUE DE L'INDUSTRIE.",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "566",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "RUE DE L'INDUSTRIE",
+				"code_stif" : 1001005660001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5b89b65ea026b1874f82de86f1e85917d924f799",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE D'IVRY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "T3",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DU GARIGLIANO",
+				"code_stif" : 1001120130001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e181244057b15a5e5b7888a2cf2eb68613e3ceaf",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CITE DU MOULIN VERT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "132",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "BIBLIOTHEQUE FRANCOIS MITTERRAND",
+				"code_stif" : 1001001320001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "10af1c2f0d4382c9cbf049daf8f220bd0f83b685",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ERMONT-EAUBONNE RER-SNCF",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "138",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE CLICHY-METRO",
+				"code_stif" : 1001001380001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c7fa326d4786158c1a04146b69d54618ae297426",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATEAU DE VINCENNES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "115",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DES LILAS-METRO",
+				"code_stif" : 1001001150001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3ac961605b4ea0c334722879f7c5546d79b100bf",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PARC DE SAINT CLOUD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "126",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ORLEANS-METRO",
+				"code_stif" : 1001001260001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7094ce53cad052214d0bccd390f0eb6ee1dcc2d5",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LE BOURGET-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "133",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "SARCELLES-BOIS D'ECOUEN",
+				"code_stif" : 1001001330001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ed927c44ecd67bdf6ddf36148c414533ee6df7cd",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAINT-OUEN RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "139",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE LA VILLETTE",
+				"code_stif" : 1001001390001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4677a57ed9d5ed3833213a38356090944eff8b1d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE CHAMPERRET",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "92",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE MONTPARNASSE",
+				"code_stif" : 1001000920001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b54738ae19234db8b22d00ec638fba6abba15e27",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROBINSON RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "128",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ORLEANS-METRO",
+				"code_stif" : 1001001280001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c08b7212132d98ef4cdffd4fc057b4a6b5c6f9fd",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LOUISON BOBET",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "94",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE MONTPARNASSE",
+				"code_stif" : 1001000940001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "722cedf430a61552e78d04a42342f205febcfea8",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BASTILLE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "91",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MONTPARNASSE 2 - GARE TGV",
+				"code_stif" : 1001000910001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		},
+		{
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c242f365b1ebc676307340743b44746c52cf42ed",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "CH\u00c2TILLON - MONTROUGE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "13",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SAINT-DENIS - UNIVERSIT\u00c9 \u2022 ASNI\u00c8RES - GENNEVILLIERS - LES COURTILLES",
+				"code_stif" : 1001100130001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "22ad67c47df320c5eeef23e2dafd09fffbec2656",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "EMERAINVILLE-PONTAULT COMBAULT-SNCF",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "206",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "NOISY LE GRAND MONT D'EST-RER",
+				"code_stif" : 1001002060001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5cc6262e167491ad96c22d21905a9c873b6cca33",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BIBLIOTH\u00c8QUE FRAN\u00c7OIS MITTERRAND",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "14",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SAINT-LAZARE",
+				"code_stif" : 1001100140001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "fefdda36d0c787ba8d9e31173779f2f8434c4524",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "NATION",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "6",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHARLES DE GAULLE - \u00c9TOILE",
+				"code_stif" : 1001100060001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f4d5246aeb9a05ed5ebb420f02dd21a2728098df",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "NATION",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "2",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DAUPHINE",
+				"code_stif" : 1001100020001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f0e519d679214b936e3ea04b6df8e62daceb46b9",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VILLIERS LE BEL - ARNOUVILLE RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "268",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "SAINT DENIS-PORTE DE PARIS",
+				"code_stif" : 1001002680001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c9c61914462c7cb934fe8c6a0cc104b3b037f775",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAINT-GERMAIN-EN-LAYE RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "258",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001002580001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "387c9c983bc30d34a2c9eb9ac368928ca67ad285",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE D'ENGHIEN-LES-BAINS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "256",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LA COURNEUVE - AUBERVILLIERS RER",
+				"code_stif" : 1001002560001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d77c8b26b47a8cf4f103a99d647efa5357aa9407",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PARC DEPARTEMENTAL - COLLEGE SISLEY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "237",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MAIRIE DE SAINT-OUEN",
+				"code_stif" : 1001002370001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5dbf34c8fd6eac5f012a5406607bb7293e383f80",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA FONTAINE CYPIERE-ZI",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "250",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "FORT D'AUBERVILLIERS-METRO",
+				"code_stif" : 1001002500001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "6f0fdb1463f23028d83f59fcf0def4ec33285370",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE SAINT-DENIS RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "254",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE D'ENGHIEN-LES-BAINS",
+				"code_stif" : 1001002540001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a758a373de9299d449356683215d67469494f46e",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "(1PORTE DES LILAS - DUGNY)",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "249",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DES LILAS-METRO",
+				"code_stif" : 1001002490001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a011edfa5c640bc6f2a764fb7af17219e2decefd",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAINT-GRATIEN RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "238",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE LEVALLOIS-METRO",
+				"code_stif" : 1001002380001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f2068bc63d637e278120ba60ecc1b59fd7abede5",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CRETEIL-EUROPARC",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "281",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "JOINVILLE-LE-PONT RER",
+				"code_stif" : 1001002810001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "49db705d65a70c6a050377d2c4b8c658f460328a",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "FORT D'AUBERVILLIERS-METRO",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "248",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "DRANCY RER",
+				"code_stif" : 1001002480001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5aa9218e6de3c22e34deefcbcaefcce1ebeec2df",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE D'AUTEUIL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "52",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHARLES DE GAULLE-ETOILE-FRIEDLAND",
+				"code_stif" : 1001000520001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "18595c900b16f5e1887b0852b67cb580de973496",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA GARENNE-COLOMBES - CHARLEBOURG",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "73",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MUSEE D'ORSAY",
+				"code_stif" : 1001000730001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a953882d4a170dca1bc3ff2afeaa06f31d828e27",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHATEAU DE VINCENNES",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "56",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE CLIGNANCOURT",
+				"code_stif" : 1001000560001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "33ecd535336ece7e74d18bab1b3d18f5e861c036",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "STADE CHARLETY-PORTE DE GENTILLY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "67",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PIGALLE",
+				"code_stif" : 1001000670001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "55b715d5759340f7ad9610a2f5cb32bcc3afbbe0",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE LA CHAPELLE-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "65",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DE LYON",
+				"code_stif" : 1001000650001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7533c3aad9e490fec93cd0d3ac7cc95e7f613ceb",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "FORT DU KREMLIN-BICETRE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "47",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DE L'EST",
+				"code_stif" : 1001000470001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "da38906bcb75d3e8d78fb0bf7f9756aeedeea582",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHARLES DE GAULLE ETOILE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "31",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DE L'EST",
+				"code_stif" : 1001000310001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4031d021a6cd98eb5cfb41c85c86fdf5cd26af71",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE SAINT-CLOUD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "62",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE FRANCE",
+				"code_stif" : 1001000620001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "478e46aab5c453fe9bb1a6b10bd8409bf6d458cf",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE PANTIN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "75",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PONT NEUF",
+				"code_stif" : 1001000750001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4a042e68b8e804e63fdb3afe5c61397704ad1302",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CLICHY - VICTOR HUGO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "66",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "OPERA",
+				"code_stif" : 1001000660001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "04a0343e8343573e24bc6a24b684a1bf06ce1824",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "STADE CHARLETY - PORTE DE GENTILLY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "21",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE SAINT-LAZARE",
+				"code_stif" : 1001000210001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c2148dbaeb8f15a763eeeca82971dbbe936bdd28",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SAINT-MAUR - CRETEIL RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " TVM     ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LA CROIX DE BERNY-RER",
+				"code_stif" : 1001000140001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d6f20fa3acb63998dfdd572274cb921b084d2a4a",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "GARE DE LA CELLE SAINT-CLOUD",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "426",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "HOTEL DE VILLE DE BOULOGNE-BILLANCOURT",
+				"code_stif" : 1001004260001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4cf2baf133403b5710cbfe7f4965097c12ae1bb8",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BOURG-LA-REINE RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "390",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "HOTEL DE VILLE DE VELIZY-VILLACOUBL",
+				"code_stif" : 1001003900001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "06a52e4461b234f5ddca68eb2c3ef1a6ecf4cc37",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "MAISONS ALFORT-LOUIS FLICHE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "372",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MAISONS ALFORT-ALFORTVILLE-RER",
+				"code_stif" : 1001003720001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "49fff2cfcbc697954ab606befcb5002bd7c7e83d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "NOISY - CHAMPS RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "310",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LES YVRIS - NOISY-LE-GRAND RER",
+				"code_stif" : 1001003100001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "290e0fb778451984001a919960bf38eb8ec74624",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PLACE DE LA BOULE - JOLIOT CURIE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "304",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LES COURTILLES",
+				"code_stif" : 1001003040001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3b422bbb90aab847887fdfb52ce6355d82bbf03c",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHARLES DE GAULLE - ETOILE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "341",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE CLIGNANCOURT",
+				"code_stif" : 1001003410001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "873c21fe14936dfd6973df491e1540dc8f375dbc",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "JUVISY RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "385",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE D'EPINAY-SUR-ORGE RER",
+				"code_stif" : 1001003850001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "890f2032a93485faf50027de83710830658bbf4e",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GABRIEL PERI-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "340",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "HOPITAL BEAUJON",
+				"code_stif" : 1001003400001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cb163bb98d753514f0cb34068c4d49c962e30079",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "EUROPE SUD",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "291",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE SEVRES-METRO",
+				"code_stif" : 1001002910001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "73dadd9349134aabf27f211e79b89c51ea5d879e",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "PISCINE - PATINOIRE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "366",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LOUISE MICHEL",
+				"code_stif" : 1001003660001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8524336a1a8e49f5c3a2d2ba079da6e1f1252360",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VILLIERS - LE PLESSIS-TREVISE RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "210",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHATEAU DE VINCENNES",
+				"code_stif" : 1001002100001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "da8fba574275a19e203a3cf067c2b6c42097f812",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PONT DE LEVALLOIS-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "275",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA DEFENSE-METRO-RER-TRAMWAY",
+				"code_stif" : 1001002750001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cb0c35b6c4bda5742f2b9de60d854d2804f7cb8d",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPIGNY-DIDEROT LA PLAGE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "201",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "JOINVILLE LE PONT-RER",
+				"code_stif" : 1001002010001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "92a48aad0f609907700ead944cbc6f00a00fb0c4",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUEIL-MALMAISON RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "244",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE MAILLOT - METRO - RER",
+				"code_stif" : 1001002440001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "53763efac5a5cd2a566a57f029d0d793adc864fc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "VINCENNES RER-REPUBLIQUE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "215",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE MONTREUIL",
+				"code_stif" : 1001002150001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5b44063700a6676b15181228a3535474f9648049",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GAGNY-ROGER SALENGRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "214",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "NEUILLY-PLAISANCE RER",
+				"code_stif" : 1001002140001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f01de1e2dbbc396f0c62fb0f78b97c868254439b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ZAC DE LA BONGARDE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "261",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "EGLISE DE FRANCONVILLE",
+				"code_stif" : 1001002610001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "584906254437c7fdda15f55433c700a3579396ed",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ORLY SUD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " ORLYBUS ",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "DENFERT-ROCHEREAU-METRO-RER",
+				"code_stif" : 1001002830001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "44d110a7f3ebedf8be8bda42baf8bcfc3f4ce840",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LE VILLAGE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "213",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DE CHELLES-GOURNAY-RER",
+				"code_stif" : 1001002130001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9c9f36bf9198a3865d909d3f7e6e4bf875e39cac",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VOLTAIRE - VILLIERS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "274",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "SAINT-DENIS RER",
+				"code_stif" : 1001002740001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c230d961b8babed7a4aa786ee6fd2ab77f6d0337",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ASNIERES - GENNEVILLIERS - LES COURTILLES",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "538",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CENTRE DE VIE",
+				"code_stif" : 1001005380001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "70dc2ed63e2f559c1ad36ce83c709c4401ecdc2b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "FRONT POPULAIRE-GARDINOUX",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "512",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "MAIRIE D'AUVERVILLIERS",
+				"code_stif" : 1001005120001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d435730b45c086b97f95befe00776c5e3f2430b5",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "RUEIL-MALMAISON RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "467",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE SEVRES-METRO",
+				"code_stif" : 1001004670001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "89f75aa7f674127621c10ecec99a030fb63e123f",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "PLACE DU VEL'D'HIV'",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " TILLBUS ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PLACE DU VEL'D'HIV'",
+				"code_stif" : 1001005150001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cccc7c9b6d2b3f4478f7cef060eaf1ec1bc59f06",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "CHATILLON METRO",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " MONTBUS ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CIRCULAIRE CHATILLON",
+				"code_stif" : 1001005260001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "09a7b6db3bb336a25d8472414fd1294c056d217b",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "HOTEL DE VILLE - CENTRE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " V4      ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CIRCULAIRE",
+				"code_stif" : 1001005620001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "f5c5e3027bada68bca16d9bc14586d47ba6ff33d",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE BELLEVUE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " TIM     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "SERVICE URBAIN",
+				"code_stif" : 1001005690001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8ffe1d74287d3c483c9ee10a1e1a41dff77fc591",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GAMBETTA",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "501",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LA TRAVERSE DE CHARONNE",
+				"code_stif" : 1001005010001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3d19040d42e3a92ac07928fd32b825c3e08d924a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE L'ESSONNE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "486",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "JUVISY RER",
+				"code_stif" : 1001004860001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ca060c9159df0f0d044190bfc57d72a3fd74ae36",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PAYRET",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "537",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "DEBAIN",
+				"code_stif" : 1001005370001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "4dfd5d26c8e81bfbdbbb9d84ef6cf527f4247c2a",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHAMPIGNY SUR MARNE-JEANNE VACHER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "108",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "JOINVILLE LE PONT-RER",
+				"code_stif" : 1001001080001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0578f402380ca6a63cdd9c96f94ff60947254398",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ECOLE VETERINAIRE DE MAISON-ALFORT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "125",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ORLEANS-METRO",
+				"code_stif" : 1001001250001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ade3cf6ac41be3eca0925bf12502bdad828a4137",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "SUCY-BONNEUIL RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "104",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "ECOLE VETERINAIRE DE MAISONS-ALFORT",
+				"code_stif" : 1001001040001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "be0044ea309030c32b28d698bf28d50dc7e5ba71",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "LA VARENNE-CHENNEVIERES RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "112",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHATEAU DE VINCENNES",
+				"code_stif" : 1001001120001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2069b4b7c019fc9275405d065cb8f3092e89b214",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PLACE DE LA RESISTANCE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "127",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CROIX DE CHAVAUX-METRO",
+				"code_stif" : 1001001270001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9f155c0b5a695b602d7cbb9ddc6e12ac038349ab",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PIERREFITTE - STAINS RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "150",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE LA VILLETTE",
+				"code_stif" : 1001001500001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3f84caccccbadf56a818507b0d8f03f54975a4ac",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VAL DE FONTENAY-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "124",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CHATEAU DE VINCENNES",
+				"code_stif" : 1001001240001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "3cdf7c1dff387445c2c4bcc60a9e79be3f26dfdc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "JOUHAUX-BLUM",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "134",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "FORT D'AUBERVILLIERS-METRO",
+				"code_stif" : 1001001340001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "eaf6ddc000fa2f0b48d0a10a8eea7340bc120bf0",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VAL DE FONTENAY-RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "122",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GALLIENI-METRO",
+				"code_stif" : 1001001220001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "fbafad7ee46d1b69fa3df194babbdb6cb7f63ea1",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CITE FLOREAL",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "153",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE LA CHAPELLE",
+				"code_stif" : 1001001530001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "0a9d0df67058cdeec223f8c35d5329041202edc2",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE MONTPARNASSE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N61     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "HDV DE VELIZY-VILLACOUBLAY",
+				"code_stif" : 1001007610001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "30621c26a6890c38cb2d48c793df3a1e81932589",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE SAINT-LAZARE.",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N51     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE D'ENGHIEN-LES-BAINS",
+				"code_stif" : 1009877530001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ccd33500ba23d980621592752791cf78b1ae8358",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE L'ESSONNE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "T7",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "VILLEJUIF - LOUIS ARAGON",
+				"code_stif" : 1001120170001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "ea95fea3f91075271cf4d4608229191329bde065",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE L'EST",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N45     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "HOPITAL DE MONTFERMEIL",
+				"code_stif" : 1001007650001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e6d2086e8ba36b26b13f98829d5174bc1850f987",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "LES DAHLIAS",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " V7      ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "VILLEJUIF-LOUIS ARAGON",
+				"code_stif" : 1001005850001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "e1dd774aa1c1bbdd8e78b5b5850048556c8d610c",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE MONTPARNASSE",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : " N62     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "ROBINSON RER",
+				"code_stif" : 1001007620001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "cf571331bbd9150ef37adb808b00dd31450b0d67",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "MAIRIE D'ISSY",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "12",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE LA CHAPELLE",
+				"code_stif" : 1001100120001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5efcf3362e19a3a8209df66424a55db5948fd484",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "MAIRIE DE MONTREUIL",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "9",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PONT DE S\u00c8VRES",
+				"code_stif" : 1001100090001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "550c41bf4774a14884e42a33ce54ec3cf56b5d8c",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE L'EST.",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : " N01     ",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GARE DE L'EST",
+				"code_stif" : 1001007750001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "21f04df26d127c2b1f1d1d3d58f7963b193a78bd",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 0,
+				"destination" : "MAIRIE DES LILAS",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "11",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "CH\u00c2TELET",
+				"code_stif" : 1001100110001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2b9a1fd6e54660b55fc5bd990d01d10c5026bc20",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOPITAL EUROPEEN GEORGES POMPIDOU",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "88",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "MONTSOURIS-TOMBE ISSOIRE",
+				"code_stif" : 1001000880001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7fb95d0007f75b5771d1f951f5c09952ee821bab",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "MAIRIE DU 18E - JULES JOFFRIN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "80",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE VERSAILLES",
+				"code_stif" : 1001000800001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "a47410014f40dedf18e69f23099613c49b1ace0f",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOPITAL EUROPEEN GEORGES POMPIDOU",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "42",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DU NORD",
+				"code_stif" : 1001000420001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "9dc5aa99444b014171a774228163dffe266b7c71",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE DE VANVES-MALAKOFF",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "89",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "PORTE DE FRANCE",
+				"code_stif" : 1001000890001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "5b3e72c7d088cdfbc64dc21053e0ef2628759692",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "BOIS-PERRIER-RER - ROSNY 2",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "102",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "GAMBETTA",
+				"code_stif" : 1001001020001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "7d578b766cd903ba1ad4216a7e23cd2cdab62872",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE MONTMARTRE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "95",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE VANVES",
+				"code_stif" : 1001000950001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "46592767b43f39411f650a1f04e6a925798b2110",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE D'IVRY",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "83",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "FRIEDLAND - HAUSSMANN",
+				"code_stif" : 1001000830001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "980b1c180ab36ddccd7718ea516542dc3c5776cc",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE SAINT-CLOUD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "22",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "OPERA",
+				"code_stif" : 1001000220001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "c10c89a22d75cce5b2dac66b58bb8b840be2f992",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "HOPITAL AMERICAIN",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "82",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "LUXEMBOURG",
+				"code_stif" : 1001000820001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "d91590c4c8e77ce4b463f9f245786816b9238df9",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "TROCADERO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "30",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GARE DE L'EST",
+				"code_stif" : 1001000300001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2ff18f0c55ae29ccd246a4759f076ce7bd3e34ff",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "GARE D'EPINAY-VILLETANEUSE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "156",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "UNIVERSITE - PARIS 13",
+				"code_stif" : 1001001560001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "80409a8daba11d92788b53f28c902c2d6421bff6",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "PORTE DE SAINT-CLOUD-METRO",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "189",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GEORGES POMPIDOU",
+				"code_stif" : 1001001890001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "71e9fb41919a73e1fec2612eaa67686e14375593",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROND-POINT ROOSEVELT",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "186",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ITALIE-METRO",
+				"code_stif" : 1001001860001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "6936b6f9da8f72295910dff89c34a109477fec14",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ZONE INDUSTRIELLE NORD",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "177",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "GABRIEL PERI-METRO",
+				"code_stif" : 1001001770001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "06777ce28ea304b5c226b010e2275a3aaca16c83",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "COLLEGE CLAUDE MONET",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "164",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE CHAMPERRET",
+				"code_stif" : 1001001640001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "8dc3d23e34d89fab2fcd5fe2fd42f2a1f9f45692",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROBINSON RER",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "195",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "CHATILLON - MONTROUGE-METRO",
+				"code_stif" : 1001001950001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "bcb701d61444f02a78a1d85aa1ed13d0fa11bcd2",
+			"fields" : {
+				"palette" : 0,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "CHARCOT - ZOLA",
+				"accessibilite_ufr" : 0,
+				"nom_de_ligne" : "187",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ORLEANS - METRO",
+				"code_stif" : 1001001870001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "2bc443642747f159bb43d336e9696bb32c71f165",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROBERT LAVERGNE",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "165",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE DE CHAMPERRET",
+				"code_stif" : 1001001650001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "b3ef13bfa5c34b54d410d7c27b72f7dac504f747",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "VAL FLEURY RER",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "162",
+				"annonce_visuelle_prochain_arret" : 0,
+				"origine" : "LOUIS ARAGON-METRO",
+				"code_stif" : 1001001620001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		}, {
+			"datasetid" : "accessibilite-des-lignes-du-reseau-de-surface-ratp",
+			"recordid" : "35997abc29d01b36600d42cfd9d86fd1a5fb6ef2",
+			"fields" : {
+				"palette" : 1,
+				"annonce_sonore_prochain_arret" : 1,
+				"destination" : "ROSENBERG",
+				"accessibilite_ufr" : 1,
+				"nom_de_ligne" : "188",
+				"annonce_visuelle_prochain_arret" : 1,
+				"origine" : "PORTE D'ORLEANS - METRO",
+				"code_stif" : 1001001880001
+			},
+			"record_timestamp" : "2015-06-11T11:57:19+02:00"
+		} ]

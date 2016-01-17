@@ -84,7 +84,7 @@ app.post('/modifyUserAsync/', supportCrossOriginScript, function(req, res,next) 
 });
 
 app.post('/deleteUserAsync/', supportCrossOriginScript, function(req, res,next) {
-	crudServcice.deleteDocumentAsync(req, res, next, _db,"UserAuth",res.body);
+	crudServcice.deleteDocumentAsync(req, res, next, _db,"UserAuth",{"email":req.body.email});
 
 });
 

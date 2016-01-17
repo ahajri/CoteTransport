@@ -113,3 +113,43 @@ module.exports.modifyDocumentAsync = function(req, res, next, _db,collectionName
 	});
 
 }
+
+module.exports.deleteDocumentAsync = function(req, res, next, _db,collectionName,query) {
+	var collection = _db.collection(collectionName);
+	async.series([
+	// Check and Load user
+	function(callback) {
+
+		_db.open(function(err, db) {
+			assert.ok(db != null);
+			collection.deleteOne(query,// query			
+			function(err, object) {
+				if (err) {
+					return res.status(500).json({
+						"error" : err.message
+					});
+				}
+				if (object.value === null) {
+					callback({
+						"error" : "Item does not exist for this query"
+					});
+				} else {
+					callback();
+				}
+			});
+		});
+	}
+
+	], function(err) { // This function gets called after the two
+		// tasks
+		// have called their "task callbacks"
+		if (err) {
+			return res.status(500).json(err);
+		}
+		return res.status(200).json({
+			"msg" : "Item removed successfully"
+		});
+
+	});
+
+}

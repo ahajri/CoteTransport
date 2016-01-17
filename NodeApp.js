@@ -28,6 +28,7 @@ Converter=require("csvtojson").Converter,
 json = require('json-update'),
 securityUtils = require('./utils/SecurityUtils.js'),
 userServcice = require('./service/userService.js'),
+crudServcice = require('./service/crudService.js'),
 languages = require('./Data/languages.json');
 
 //
@@ -82,6 +83,10 @@ app.post('/modifyUserAsync/', supportCrossOriginScript, function(req, res,next) 
 
 });
 
+app.post('/deleteUserAsync/', supportCrossOriginScript, function(req, res,next) {
+	crudServcice.deleteDocumentAsync(req, res, next, _db,"UserAuth",res.body);
+
+});
 
 
 function errorHandler(err, req, res, next) {

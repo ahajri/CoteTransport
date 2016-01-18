@@ -112,7 +112,7 @@ module.exports.modifyDocumentAsync = function(req, res, next, _db,collectionName
 
 	});
 
-}
+};
 
 module.exports.deleteDocumentAsync = function(req, res, next, _db,collectionName,query) {
 	var collection = _db.collection(collectionName);
@@ -121,7 +121,7 @@ module.exports.deleteDocumentAsync = function(req, res, next, _db,collectionName
 	function(callback) {
 
 		_db.open(function(err, db) {
-			assert.ok(db != null);
+			assert.ok(db !== null);
 			collection.deleteOne(query,// query			
 			function(err, object) {
 				if (err) {
@@ -152,4 +152,38 @@ module.exports.deleteDocumentAsync = function(req, res, next, _db,collectionName
 
 	});
 
-}
+};
+
+module.exports.findOneDocumentAsync = function(req, res, next, _db,collectionName,query) {
+	assert.ok(_db !== null);
+	var collection = _db.collection(collectionName);
+	async.series([
+	// Check and Load user
+	function(callback) {
+
+		_db.open(function(err, db) {
+			assert.ok(db !== null);
+			collection.findOne(query,function(err, object) {
+				if (err) {
+					return res.status(500).json({"err" : err.message});
+				}
+				if (object === null) {
+					callback();
+				} else {
+					callback(object);
+				}
+			});
+		});
+	}
+
+	], function(obj) {
+		if (obj) {
+			return res.status(200).json(obj);
+		}
+		return res.status(500).json({
+			"msg" : "Item not found"
+		});
+	});
+
+};
+

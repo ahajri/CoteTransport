@@ -1,5 +1,14 @@
+#commit
 git init
 git add README.md
+git add .
 git commit -m "first commit"
 git remote add origin https://github.com/anismouali/CoteTransport.git
 git push -u origin master
+#get local and remote branches
+git branch -a
+#difference
+git diff master:service --  service (example on service folder)
+#update 
+git pull
+

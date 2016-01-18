@@ -88,6 +88,26 @@ app.post('/deleteUserAsync/', supportCrossOriginScript, function(req, res,next) 
 
 });
 
+app.post('/findOneUserAsync/', supportCrossOriginScript, function(req, res,next) {
+	crudServcice.findOneDocumentAsync(req, res, next, _db,"UserAuth",req.body);
+
+});
+
+app.post('/loginAsync/', supportCrossOriginScript, function(req, res,next) {
+	var query ;
+	var username = req.body.username;
+	var email = req.body.email;
+	var password = securityUtils.md5(req.body.password);
+	if(username !== null){
+		query = {"username":username,"password":password};
+	}
+	if (email !== null) {
+		query = {"email":email,"password":password};
+	}
+	crudServcice.findOneDocumentAsync(req, res, next, _db,"UserAuth",query);
+
+});
+
 
 function errorHandler(err, req, res, next) {
 	console.log(' handle error: '+err);

@@ -1,8 +1,7 @@
-var securityUtils = require('../utils/SecurityUtils.js'), 
-assert = require('assert'), 
-async = require('async');
+var securityUtils = require('../utils/SecurityUtils.js'), assert = require('assert'), async = require('async');
 
-module.exports.addDocumentAsync = function(req, res, next, _db,collectionName,query) {
+module.exports.addDocumentAsync = function(req, res, next, _db, collectionName,
+		query) {
 	var lang = req.acceptsLanguages('fr', 'ar', 'en');
 	var collection = _db.collection(collectionName);
 	var result = {};
@@ -58,8 +57,9 @@ module.exports.addDocumentAsync = function(req, res, next, _db,collectionName,qu
 					});
 }
 
-//Update User with complete data
-module.exports.modifyDocumentAsync = function(req, res, next, _db,collectionName,query) {
+// Update User with complete data
+module.exports.modifyDocumentAsync = function(req, res, next, _db,
+		collectionName, query) {
 	var collection = _db.collection(collectionName);
 	var jsonData = req.body;
 	jsonData.password = securityUtils.md5(req.body.password);
@@ -69,8 +69,8 @@ module.exports.modifyDocumentAsync = function(req, res, next, _db,collectionName
 
 		_db.open(function(err, db) {
 			assert.ok(db != null);
-			collection.findAndModify(query,// query			
-			/*[ [ '_id', 'desc' ] ], // sort order*/
+			collection.findAndModify(query,// query
+			/* [ [ '_id', 'desc' ] ], // sort order */
 			jsonData, // replacement
 			{}, // options
 			function(err, object) {
@@ -88,14 +88,15 @@ module.exports.modifyDocumentAsync = function(req, res, next, _db,collectionName
 				}
 			});
 
-			//	collection.update({"email":jsonData.email}, jsonData, function(err, user) {
-			//		if (err) return callback(err);
-			//		if(user){
-			//		callback();
-			//   }else{
-			//	 return res.status(500).json({ "error": "user does not exist!" });
-			//	   }
-			//	 });
+			// collection.update({"email":jsonData.email}, jsonData,
+			// function(err, user) {
+			// if (err) return callback(err);
+			// if(user){
+			// callback();
+			// }else{
+			// return res.status(500).json({ "error": "user does not exist!" });
+			// }
+			// });
 
 		});
 	}
@@ -114,7 +115,8 @@ module.exports.modifyDocumentAsync = function(req, res, next, _db,collectionName
 
 };
 
-module.exports.deleteDocumentAsync = function(req, res, next, _db,collectionName,query) {
+module.exports.deleteDocumentAsync = function(req, res, next, _db,
+		collectionName, query) {
 	var collection = _db.collection(collectionName);
 	async.series([
 	// Check and Load user
@@ -122,7 +124,7 @@ module.exports.deleteDocumentAsync = function(req, res, next, _db,collectionName
 
 		_db.open(function(err, db) {
 			assert.ok(db !== null);
-			collection.deleteOne(query,// query			
+			collection.deleteOne(query,// query
 			function(err, object) {
 				if (err) {
 					return res.status(500).json({
@@ -154,26 +156,28 @@ module.exports.deleteDocumentAsync = function(req, res, next, _db,collectionName
 
 };
 
-module.exports.findOneDocumentAsync = function(req, res, next, _db,collectionName,query) {
+module.exports.findOneDocumentAsync = function(req, res, next, _db,
+		collectionName, query) {
 	assert.ok(_db !== null);
 	var collection = _db.collection(collectionName);
 	async.series([
 	// Check and Load user
 	function(callback) {
 
-		_db.open(function(err, db) {
-			assert.ok(db !== null);
-			collection.findOne(query,function(err, object) {
-				if (err) {
-					return res.status(500).json({"err" : err.message});
-				}
-				if (object === null) {
-					callback();
-				} else {
-					callback(object);
-				}
-			});
+		// _db.open(function(err, db) {
+		collection.findOne(query, function(err, object) {
+			if (err) {
+				return res.status(500).json({
+					"err" : err.message
+				});
+			}
+			if (object === null) {
+				callback();
+			} else {
+				callback(object);
+			}
 		});
+		// });
 	}
 
 	], function(obj) {
@@ -186,4 +190,3 @@ module.exports.findOneDocumentAsync = function(req, res, next, _db,collectionNam
 	});
 
 };
-

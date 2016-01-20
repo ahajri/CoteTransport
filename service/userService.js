@@ -8,8 +8,8 @@ nodemailer = require("nodemailer");
 var smtpTransport = nodemailer.createTransport("SMTP", {
 	service : "Gmail",
 	auth : {
-		user : "horr.riahi",
-		pass : "Mahdi1508255"
+		user : "anis.hajri",
+		pass : "yaZahraa14"
 	}
 });
 var rand, mailOptions, host, link;
@@ -55,7 +55,6 @@ module.exports.addUserAsync = function(req, res, next, _db) {
 							} ,
 							function(callback) {
 								//send validation Email
-								console.log(result.ops[0]._id);
 								postEmail(res,req,result.ops[0].email,result.ops[0]._id);
 								callback(result);
 							}
@@ -168,6 +167,7 @@ function postEmail(req, res,email,id) {
 	var rand = Math.floor((Math.random() * 100) + 54);
 	var host = req.get('host');
 	var link = "http://" + req.get('host') + "/verifyEmail?id=" + id;
+	console.log(link);
 	mailOptions = {
 		to : email,
 		subject : "CoteTransport: Confirmation d'Email",

@@ -2,42 +2,18 @@ var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
 
-
-
-
-
-
 app.use(bodyParser.json()); // for parsing application/json
 app.use(bodyParser.urlencoded({
 	extended : true
-	
+
 })); // for parsing
 // application/x-www-form-urlencoded
 //
-var Db = require('mongodb').Db, 
-MongoClient = require('mongodb').MongoClient, 
-mongoose = require('mongoose'), 
-Server = require('mongodb').Server, 
-ReplSetServers = require('mongodb').ReplSetServers, 
-ObjectID = require('mongodb').ObjectID, 
-Binary = require('mongodb').Binary, 
-GridStore = require('mongodb').GridStore, 
-Grid = require('mongodb').Grid, Code = require('mongodb').Code, 
-BSON = require('mongodb').BSON, 
-util = require('util'), 
-fs = require('fs'), 
-assert = require('assert'), 
-request = require('request'),
+var Db = require('mongodb').Db, MongoClient = require('mongodb').MongoClient, mongoose = require('mongoose'), Server = require('mongodb').Server, ReplSetServers = require('mongodb').ReplSetServers, ObjectID = require('mongodb').ObjectID, Binary = require('mongodb').Binary, GridStore = require('mongodb').GridStore, Grid = require('mongodb').Grid, Code = require('mongodb').Code, BSON = require('mongodb').BSON, util = require('util'), fs = require('fs'), assert = require('assert'), request = require('request'),
 
-cluster = require('cluster'), 
-mysql = require('mysql'), Converter = require("csvtojson").Converter, 
-nodemailer = require("nodemailer"), 
-json = require('json-update'), 
+cluster = require('cluster'), mysql = require('mysql'), Converter = require("csvtojson").Converter, nodemailer = require("nodemailer"), json = require('json-update'),
 
-securityUtils = require('./utils/SecurityUtils.js'), 
-userServcice = require('./service/userService.js'), 
-crudServcice = require('./service/crudService.js'), 
-languages = require('./data/languages.json');
+securityUtils = require('./utils/SecurityUtils.js'), userServcice = require('./service/userService.js'), crudServcice = require('./service/crudService.js'), languages = require('./data/languages.json');
 
 //
 var _db; // new Db('APPDB', new Server('localhost', 27017));
@@ -131,22 +107,11 @@ app.post('/loginAsync/', supportCrossOriginScript, function(req, res, next) {
 	crudServcice.findOneDocumentAsync(req, res, next, _db, "UserAuth", query);
 });
 
-
-app.get('/verifyEmail', function(req, res) {
+app.get('/verifyEmail/:id', function(req, res) {
 	console.log(req.protocol + "://" + req.get('host'));
-	if ((req.protocol + "://" + req.get('host')) === ("http://" + host)) {
-		console.log("Domain is matched. Information is from Authentic email");
-		// if (req.query.id == rand) {
-		// console.log("email is verified");
-		// res.end("<h1>Email " + mailOptions.to
-		// + " is been Successfully verified");
-		// } else {
-		// console.log("email is not verified");
-		// res.end("<h1>Bad Request</h1>");
-		// }
-	} else {
-		res.end("<h1>Request is from unknown source</h1>");
-	}
+	
+	res.end("<h1>Request is from unknown source</h1>");
+	
 });
 
 function errorHandler(err, req, res, next) {

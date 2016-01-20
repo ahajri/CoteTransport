@@ -17,7 +17,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "openlayers": "^3.13.0",
     "serve-static": "~1.7.0"
   }
 }

@@ -11,4 +11,6 @@ git branch -a
 git diff master:service --  service (example on service folder)
 #update 
 git pull
+#problem lock index
+rm -f ./.git/index.lock
 

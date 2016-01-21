@@ -9,7 +9,12 @@ app.use(bodyParser.urlencoded({
 })); // for parsing
 // application/x-www-form-urlencoded
 //
-var Db = require('mongodb').Db, MongoClient = require('mongodb').MongoClient, mongoose = require('mongoose'), Server = require('mongodb').Server, ReplSetServers = require('mongodb').ReplSetServers, ObjectID = require('mongodb').ObjectID, Binary = require('mongodb').Binary, GridStore = require('mongodb').GridStore, Grid = require('mongodb').Grid, Code = require('mongodb').Code, BSON = require('mongodb').BSON, util = require('util'), fs = require('fs'), assert = require('assert'), request = require('request'),
+var Db = require('mongodb').Db, MongoClient = require('mongodb').MongoClient, 
+mongoose = require('mongoose'), 
+Server = require('mongodb').Server, 
+ReplSetServers = require('mongodb').ReplSetServers, 
+ObjectID = require('mongodb').ObjectID, 
+Binary = require('mongodb').Binary, GridStore = require('mongodb').GridStore, Grid = require('mongodb').Grid, Code = require('mongodb').Code, BSON = require('mongodb').BSON, util = require('util'), fs = require('fs'), assert = require('assert'), request = require('request'),
 
 cluster = require('cluster'), mysql = require('mysql'), Converter = require("csvtojson").Converter, nodemailer = require("nodemailer"), json = require('json-update'),
 
@@ -107,10 +112,9 @@ app.post('/loginAsync/', supportCrossOriginScript, function(req, res, next) {
 	crudServcice.findOneDocumentAsync(req, res, next, _db, "UserAuth", query);
 });
 
-app.get('/verifyEmail/:id', function(req, res) {
-	console.log(req.protocol + "://" + req.get('host'));
-	
-	res.end("<h1>Request is from unknown source</h1>");
+app.get('/verifyEmail/:id', function(req, res,next) {
+	var id = new ObjectID(req.params.id.toString());
+	userServcice.verifyUser(req, res, next, _db, "UserAuth", {"_id":id});
 	
 });
 

@@ -1,19 +1,14 @@
-var securityUtils = require('../utils/SecurityUtils.js'), 
-assert = require('assert'), 
-validator = require("email-validator"), 
-async = require('async'),
-nodemailer = require("nodemailer");
+var securityUtils = require('../utils/SecurityUtils.js'), assert = require('assert'), validator = require("email-validator"), async = require('async'), nodemailer = require("nodemailer");
 
-//Email settings
+// Email settings
 var smtpTransport = nodemailer.createTransport("SMTP", {
 	service : "Gmail",
 	auth : {
-		user : "ahajri",
-		pass : "uifhygeufte"
+		user : "anis.hajri",
+		pass : "yaZahraa14"
 	}
 });
 var rand, mailOptions, host, link;
-
 
 module.exports.addUserAsync = function(req, res, next, _db) {
 	var lang = req.acceptsLanguages('fr', 'ar', 'en');
@@ -27,38 +22,60 @@ module.exports.addUserAsync = function(req, res, next, _db) {
 	var result = {};
 	var userJson = req.body;
 	userJson.password = securityUtils.md5(req.body.password);
-	async.series([// Check and Load user
-			         function(callback) {
-						_db.open(function(err, db) {
-								collection.findOne({"$or" : [{"email" : userJson.email},{"username" : userJson.login} ]},
-												function(err, users) {
-													assert.ok(db != null);
-													if (err){
-														return callback(err);
-													}
-													if (users) {
-														return res.status(500).json({"error" : "Another user using the same username or email already exists"});
-													}
-													callback();
-												});
-							     });
+	async
+			.series(
+					[// Check and Load user
+							function(callback) {
+								_db
+										.open(function(err, db) {
+											collection
+													.findOne(
+															{
+																"$or" : [
+																		{
+																			"email" : userJson.email
+																		},
+																		{
+																			"username" : userJson.login
+																		} ]
+															},
+															function(err, users) {
+																assert
+																		.ok(db != null);
+																if (err) {
+																	return callback(err);
+																}
+																if (users) {
+																	return res
+																			.status(
+																					500)
+																			.json(
+																					{
+																						"error" : "Another user using the same username or email already exists"
+																					});
+																}
+																callback();
+															});
+										});
 							},
 							// insert user (won't be called before task 1's
 							// "task callback" has
 							// been called)
 							function(callback) {
-								collection.insert(req.body, {w : 1}, function(err, records) {
+								collection.insert(req.body, {
+									w : 1
+								}, function(err, records) {
 									result = records;
-									//Send URL verification
+									// Send URL verification
 									callback();
 								});
-							} ,
+							},
 							function(callback) {
-								//send validation Email
-								postEmail(res,req,result.ops[0].email,result.ops[0]._id);
-								callback(result);
-							}
-							], function(msg) { // This function gets called
+								// send validation Email
+								postEmail(res, req, result.ops[0].email,
+										result.ops[0]._id);
+								callback(result.ops[0]._id);
+							} ], function(msg) { // This function gets called
 						// after the two tasks
 						// have called their "task callbacks"
 						if (msg) {
@@ -128,6 +145,44 @@ module.exports.modifyUserAsync = function(req, res, next, _db) {
 
 };
 
+//Update User with complete data
+module.exports.modifyUserSetAsync = function(req, res, next, _db,userJson,jsonFields) {
+	var collection = _db.collection('UserAuth');
+	async.series([
+	// Check and Load user
+	function(callback) {
+
+		_db.open(function(err, db) {
+			assert.ok(db != null);
+			collection.findAndModify({
+				"email" : userJson.email
+			},// query
+			[ [ '_id', 'desc' ] ], // sort order
+			{$set: jsonFields}, // replacement
+			{}, // options
+			function(err, object) {
+				if (err) {
+					return res.status(500).json({"error" : err.message});
+				}
+				if (object.value === null) {
+					callback({"error" : "User does not exist for this email"});
+				} else {
+					callback();
+				}
+			});
+		});
+	}
+
+	], function(err) { 
+		if (err) {
+			return res.status(500).json(err);
+		}
+		return res.status(200).json({"msg" : "User modified successfully"});
+
+	});
+
+};
+
 module.exports.loginAsync = function(req, res, next, _db, collectionName, query) {
 	assert.ok(_db !== null);
 	var collection = _db.collection(collectionName);
@@ -163,20 +218,38 @@ module.exports.loginAsync = function(req, res, next, _db, collectionName, query)
 
 };
 
-function postEmail(req, res,email,id) {
+module.exports.verifyUser = function(req, res, next, _db, collectionName, id) {
+	assert.ok(_db !== null);
+	var collection = _db.collection(collectionName);
+	assert.ok(collection !== null);
+	collection.findOne({"_id":id}, function(err, user) {
+		console.log("Found User###"+user);
+		if (err) {
+			return res.status(500).json(err);
+		}
+		//return res.status(200).json(user);
+		if(user!=null){
+			this.modifyUserSetAsync(req, res, next, _db, user, {"status":"VLD"});
+		}else{
+			res.status(500).json({"status":-1,"msg":"User not found"});
+		}
+	});
+};
+
+function postEmail(req, res, email, id) {
 	var rand = Math.floor((Math.random() * 100) + 54);
 	var host = req.get('host');
-	var link = "http://" + req.get('host') + "/verifyEmail?id=" + id;
+	var link = "http://localhost/verifyEmail/id=" + id;
 	console.log(link);
 	mailOptions = {
 		to : email,
-		subject : "CoteTransport: Confirmation d'Email",
-		html : "Bonjour,<br> Merci de cliquer sur le lien ci dessous pour validation de votre Email.<br><a href="
-				+ link + ">Vérification</a>"
+		subject : "CoteTransport: Confirmation d'Inscription",
+		html : "Bonjour,<br/> Merci de cliquer sur le lien ci dessous pour validation de votre Email.<br/><div alaign=\"center\"><a href="
+				+ link + ">Vérification</a></div><br/>Merci."
 	};
-	smtpTransport.sendMail(mailOptions, function(err,response) {
+	smtpTransport.sendMail(mailOptions, function(err, response) {
 		if (err) {
-			console.log('Error: '+err);
+			console.log('Error: ' + err);
 		} else {
 			console.log("Message sent: " + response.message);
 		}

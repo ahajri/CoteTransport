@@ -4,8 +4,8 @@ var securityUtils = require('../utils/SecurityUtils.js'), assert = require('asse
 var smtpTransport = nodemailer.createTransport("SMTP", {
 	service : "Gmail",
 	auth : {
-		user : "anis.hajri",
-		pass : "yaZahraa14"
+		user : "ahajri",
+		pass : "izcgheugftgfer"
 	}
 });
 var rand, mailOptions, host, link;

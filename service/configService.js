@@ -27,20 +27,17 @@ module.exports.initRef = function(req, res, next, _db) {
 
 	fs.readdir(p, function(err, files) {
 		if (err) {
-			return res.status(500).json({
-				"status" : "-01",
-				"msg" : er.message
-			});
+			return res.status(500).json({"status" : "-01","msg" : er.message});
 		}
+		var data = {};
 		files.forEach(function(filename) {
-			console.log(filename);
-//			fs.readFile(p + filename, 'utf-8', function(err, content) {
-//				if (err) {
-//					onError(err);
-//					return;
-//				}
-//				onFileContent(filename, content);
-//			});
+			
+			fs.readFile(p + filename, 'utf-8', function(err, content) {
+				if (err) {
+					return res.status(500).json({"status" : "-01","msg" : er.message});
+				}
+				console.log(content);
+			});
 		});
 		
 	});

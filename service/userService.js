@@ -1,5 +1,5 @@
 var securityUtils = require('../utils/SecurityUtils.js'), assert = require('assert'), validator = require("email-validator"), async = require('async'), nodemailer = require("nodemailer");
-
+var _this = this;
 // Email settings
 var smtpTransport = nodemailer.createTransport("SMTP", {
 	service : "Gmail",
@@ -118,22 +118,10 @@ module.exports.modifyUserAsync = function(req, res, next, _db) {
 				}
 			});
 
-			// collection.update({"email":userJson.email}, userJson,
-			// function(err, user) {
-			// if (err) return callback(err);
-			// if(user){
-			// callback();
-			// }else{
-			// return res.status(500).json({ "error": "user does not exist!" });
-			// }
-			// });
-
 		});
 	}
 
 	], function(err) { // This function gets called after the two
-		// tasks
-		// have called their "task callbacks"
 		if (err) {
 			return res.status(500).json(err);
 		}
@@ -145,42 +133,33 @@ module.exports.modifyUserAsync = function(req, res, next, _db) {
 
 };
 
-//Update User with complete data
-module.exports.modifyUserSetAsync = function(req, res, next, _db,userJson,jsonFields) {
+// Update User with complete data
+module.exports.modifyOneUserWithSetAsync = function(req, res, next, _db, user,
+		jsonFields) {
+	assert.ok(_db != null);
+	console.log(jsonFields);
+	console.log({$set : jsonFields});
 	var collection = _db.collection('UserAuth');
 	async.series([
 	// Check and Load user
 	function(callback) {
-
-		_db.open(function(err, db) {
-			assert.ok(db != null);
-			collection.findAndModify({
-				"email" : userJson.email
-			},// query
-			[ [ '_id', 'desc' ] ], // sort order
-			{$set: jsonFields}, // replacement
-			{}, // options
-			function(err, object) {
-				if (err) {
-					return res.status(500).json({"error" : err.message});
-				}
-				if (object.value === null) {
-					callback({"error" : "User does not exist for this email"});
-				} else {
-					callback();
-				}
-			});
+		collection.updateOne(user,{$set : jsonFields}, function(err, object) {
+			if (err) {
+				return res.status(500).json(err);
+			}
+			if (object.value === null) {
+				callback({"status":-1 , "err" : "User does not exist for this email"});
+			} else {
+				callback();
+			}
 		});
 	}
-
-	], function(err) { 
+	], function(err) {
 		if (err) {
 			return res.status(500).json(err);
 		}
-		return res.status(200).json({"msg" : "User modified successfully"});
-
+		return res.status(200).json({"status":1,"msg" : "User modified successfully"});
 	});
-
 };
 
 module.exports.loginAsync = function(req, res, next, _db, collectionName, query) {
@@ -200,9 +179,8 @@ module.exports.loginAsync = function(req, res, next, _db, collectionName, query)
 			} else {
 				// check if user is validated
 				if (object.status === 'INV') {
-					return res.status(500).json({
-						"err" : "Item not validated"
-					});
+					postEmail(req, res, object.email, object.id);
+					return res.status(500).json({"err" : "User not verified yet, please check your email again"});
 				}
 				callback(object);
 			}
@@ -218,20 +196,18 @@ module.exports.loginAsync = function(req, res, next, _db, collectionName, query)
 
 };
 
-module.exports.verifyUser = function(req, res, next, _db, collectionName, id) {
+module.exports.verifyUser = function(req, res, next, _db, collectionName, query) {
 	assert.ok(_db !== null);
 	var collection = _db.collection(collectionName);
 	assert.ok(collection !== null);
-	collection.findOne({"_id":id}, function(err, user) {
-		console.log("Found User###"+user);
+	collection.findOne(query, function(err, user) {
 		if (err) {
 			return res.status(500).json(err);
 		}
-		//return res.status(200).json(user);
-		if(user!=null){
-			this.modifyUserSetAsync(req, res, next, _db, user, {"status":"VLD"});
-		}else{
-			res.status(500).json({"status":-1,"msg":"User not found"});
+		if (user != null) {
+			_this.modifyOneUserWithSetAsync(req, res, next, _db, user,	{"status" : "VLD"});
+		} else {
+			res.status(500).json({"status" : -1,"msg" : "User not found"});
 		}
 	});
 };

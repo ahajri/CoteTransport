@@ -14,11 +14,26 @@ mongoose = require('mongoose'),
 Server = require('mongodb').Server, 
 ReplSetServers = require('mongodb').ReplSetServers, 
 ObjectID = require('mongodb').ObjectID, 
-Binary = require('mongodb').Binary, GridStore = require('mongodb').GridStore, Grid = require('mongodb').Grid, Code = require('mongodb').Code, BSON = require('mongodb').BSON, util = require('util'), fs = require('fs'), assert = require('assert'), request = require('request'),
+Binary = require('mongodb').Binary, GridStore = require('mongodb').GridStore, 
+Grid = require('mongodb').Grid, 
+Code = require('mongodb').Code, 
+BSON = require('mongodb').BSON, 
+util = require('util'), 
+fs = require('fs'), 
+assert = require('assert'), 
+request = require('request'),
+Glob = require('glob').Glob,
+cluster = require('cluster'), 
+mysql = require('mysql'), 
+Converter = require("csvtojson").Converter, 
+nodemailer = require("nodemailer"), 
+json = require('json-update'),
 
-cluster = require('cluster'), mysql = require('mysql'), Converter = require("csvtojson").Converter, nodemailer = require("nodemailer"), json = require('json-update'),
-
-securityUtils = require('./utils/SecurityUtils.js'), userServcice = require('./service/userService.js'), crudServcice = require('./service/crudService.js'), languages = require('./data/languages.json');
+securityUtils = require('./utils/SecurityUtils.js'), 
+configServcice = require('./service/configService.js'), 
+userServcice = require('./service/userService.js'), 
+crudServcice = require('./service/crudService.js'), 
+languages = require('./data/ref/languages.json');
 
 //
 var _db; // new Db('APPDB', new Server('localhost', 27017));
@@ -116,6 +131,12 @@ app.get('/verifyEmail/:id', function(req, res,next) {
 	var id = new ObjectID(req.params.id.toString());
 	userServcice.verifyUser(req, res, next, _db, "UserAuth", {"_id":id});
 	
+});
+
+app.post('/config/', supportCrossOriginScript, function(req, res,
+		next) {
+	configServcice.initRef(req, res, next, _db);
+
 });
 
 function errorHandler(err, req, res, next) {

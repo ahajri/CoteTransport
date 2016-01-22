@@ -1,11 +1,15 @@
-var securityUtils = require('../utils/SecurityUtils.js'), assert = require('assert'), validator = require("email-validator"), async = require('async'), nodemailer = require("nodemailer");
+var securityUtils = require('../utils/SecurityUtils.js'), 
+assert = require('assert'), 
+validator = require("email-validator"), 
+async = require('async'), 
+nodemailer = require("nodemailer");
 var _this = this;
 // Email settings
 var smtpTransport = nodemailer.createTransport("SMTP", {
 	service : "Gmail",
 	auth : {
 		user : "ahajri",
-		pass : "izcgheugftgfer"
+		pass : "112255"
 	}
 });
 var rand, mailOptions, host, link;

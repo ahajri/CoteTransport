@@ -28,11 +28,14 @@ mysql = require('mysql'),
 Converter = require("csvtojson").Converter, 
 nodemailer = require("nodemailer"), 
 json = require('json-update'),
+uuid = require('node-uuid'),
 
+//
 securityUtils = require('./utils/SecurityUtils.js'), 
 configServcice = require('./service/configService.js'), 
 userServcice = require('./service/userService.js'), 
 crudServcice = require('./service/crudService.js'), 
+//
 languages = require('./data/ref/languages.json');
 
 //
@@ -128,14 +131,22 @@ app.post('/loginAsync/', supportCrossOriginScript, function(req, res, next) {
 });
 
 app.get('/verifyEmail/:id', function(req, res,next) {
-	var id = new ObjectID(req.params.id.toString());
-	userServcice.verifyUser(req, res, next, _db, "UserAuth", {"_id":id});
+//	var objId = new ObjectID(req.params.id.toString());
+//	console.log(ObjectID(req.params.id.toString()));
+//	console.log(ObjectID.createFromHexString(req.params.id.toString()));
+	userServcice.verifyUser(req, res, next, _db, "UserAuth", {"_id":new ObjectID(req.params.id)});
 	
 });
 
 app.post('/config/', supportCrossOriginScript, function(req, res,
 		next) {
 	configServcice.initRef(req, res, next, _db);
+
+});
+
+app.post('/resetPassword/', supportCrossOriginScript, function(req, res,
+		next) {
+	userServcice.resetPassword(req, res, next, _db);
 
 });
 

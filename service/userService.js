@@ -1,17 +1,14 @@
-var securityUtils = require('../utils/SecurityUtils.js'), 
-assert = require('assert'), 
-validator = require("email-validator"), 
-async = require('async'), 
-nodemailer = require("nodemailer");
+var securityUtils = require('../utils/SecurityUtils.js'), assert = require('assert'), validator = require("email-validator"), async = require('async'), ObjectID = require('mongodb').ObjectID, nodemailer = require("nodemailer");
 var _this = this;
 // Email settings
 var smtpTransport = nodemailer.createTransport("SMTP", {
 	service : "Gmail",
 	auth : {
-		user : "ahajri",
-		pass : "112255"
+		user : "anis.hajri",
+		pass : "yaZahraa14"
 	}
 });
+
 var rand, mailOptions, host, link;
 
 module.exports.addUserAsync = function(req, res, next, _db) {
@@ -77,8 +74,8 @@ module.exports.addUserAsync = function(req, res, next, _db) {
 							function(callback) {
 								// send validation Email
 								postEmail(res, req, result.ops[0].email,
-										result.ops[0]._id);
-								callback(result.ops[0]._id);
+										new ObjectID(result.ops[0]._id));
+								callback(result);
 							} ], function(msg) { // This function gets called
 						// after the two tasks
 						// have called their "task callbacks"
@@ -142,61 +139,83 @@ module.exports.modifyOneUserWithSetAsync = function(req, res, next, _db, user,
 		jsonFields) {
 	assert.ok(_db != null);
 	console.log(jsonFields);
-	console.log({$set : jsonFields});
+	console.log({
+		$set : jsonFields
+	});
 	var collection = _db.collection('UserAuth');
 	async.series([
 	// Check and Load user
 	function(callback) {
-		collection.updateOne(user,{$set : jsonFields}, function(err, object) {
+		collection.updateOne(user, {
+			$set : jsonFields
+		}, function(err, object) {
 			if (err) {
 				return res.status(500).json(err);
 			}
 			if (object.value === null) {
-				callback({"status":-1 , "err" : "User does not exist for this email"});
+				callback({
+					"status" : -1,
+					"err" : "User does not exist for this email"
+				});
 			} else {
 				callback();
 			}
 		});
-	}
-	], function(err) {
+	} ], function(err) {
 		if (err) {
 			return res.status(500).json(err);
 		}
-		return res.status(200).json({"status":1,"msg" : "User modified successfully"});
+		return res.status(200).json({
+			"status" : 1,
+			"msg" : "User modified successfully"
+		});
 	});
 };
 
 module.exports.loginAsync = function(req, res, next, _db, collectionName, query) {
 	assert.ok(_db !== null);
 	var collection = _db.collection(collectionName);
-	async.series([
-	// Check and Load user
-	function(callback) {
-		collection.findOne(query, function(err, object) {
-			if (err) {
-				return res.status(500).json({
-					"err" : err.message
-				});
-			}
-			if (object === null) {
-				callback();
-			} else {
-				// check if user is validated
-				if (object.status === 'INV') {
-					postEmail(req, res, object.email, object.id);
-					return res.status(500).json({"err" : "User not verified yet, please check your email again"});
-				}
-				callback(object);
-			}
-		});
-	} ], function(obj) {
-		if (obj) {
-			return res.status(200).json(obj);
-		}
-		return res.status(500).json({
-			"msg" : "Item not found"
-		});
-	});
+	async
+			.series(
+					[
+					// Check and Load user
+					function(callback) {
+						collection
+								.findOne(
+										query,
+										function(err, object) {
+											if (err) {
+												return res.status(500).json({
+													"err" : err.message
+												});
+											}
+											if (object === null) {
+												callback();
+											} else {
+												// check if user is validated
+												if (object.status === 'INV') {
+													postEmail(req, res,
+															object.email,
+															object.id);
+													return res
+															.status(500)
+															.json(
+																	{
+																		"status" : "-12",
+																		"message" : "User not verified yet, please check your email again"
+																	});
+												}
+												callback(object);
+											}
+										});
+					} ], function(obj) {
+						if (obj) {
+							return res.status(200).json(obj);
+						}
+						return res.status(500).json({
+							"msg" : "Item not found"
+						});
+					});
 
 };
 
@@ -204,14 +223,20 @@ module.exports.verifyUser = function(req, res, next, _db, collectionName, query)
 	assert.ok(_db !== null);
 	var collection = _db.collection(collectionName);
 	assert.ok(collection !== null);
+	console.log(query);
 	collection.findOne(query, function(err, user) {
 		if (err) {
 			return res.status(500).json(err);
 		}
 		if (user != null) {
-			_this.modifyOneUserWithSetAsync(req, res, next, _db, user,	{"status" : "VLD"});
+			_this.modifyOneUserWithSetAsync(req, res, next, _db, user, {
+				"status" : "VLD"
+			});
 		} else {
-			res.status(500).json({"status" : -1,"msg" : "User not found"});
+			res.status(500).json({
+				"status" : -1,
+				"msg" : "User not found"
+			});
 		}
 	});
 };
@@ -219,13 +244,13 @@ module.exports.verifyUser = function(req, res, next, _db, collectionName, query)
 function postEmail(req, res, email, id) {
 	var rand = Math.floor((Math.random() * 100) + 54);
 	var host = req.get('host');
-	var link = "http://localhost/verifyEmail/id=" + id;
-	console.log(link);
+	var link = "http://localhost:8585/verifyEmail/id=" + id;
 	mailOptions = {
+		from : "noreplay@cotetransport.com",
 		to : email,
 		subject : "CoteTransport: Confirmation d'Inscription",
-		html : "Bonjour,<br/> Merci de cliquer sur le lien ci dessous pour validation de votre Email.<br/><div alaign=\"center\"><a href="
-				+ link + ">Vérification</a></div><br/>Merci."
+		html : "Bonjour,<br/> Merci de cliquer sur le lien ci dessous pour validation de votre Email.<br/><div alaign=\"left\"><a href="
+				+ link + ">" + link + "</a></div><br/>Merci."
 	};
 	smtpTransport.sendMail(mailOptions, function(err, response) {
 		if (err) {

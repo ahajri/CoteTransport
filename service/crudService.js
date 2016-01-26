@@ -88,16 +88,6 @@ module.exports.modifyDocumentAsync = function(req, res, next, _db,
 				}
 			});
 
-			// collection.update({"email":jsonData.email}, jsonData,
-			// function(err, user) {
-			// if (err) return callback(err);
-			// if(user){
-			// callback();
-			// }else{
-			// return res.status(500).json({ "error": "user does not exist!" });
-			// }
-			// });
-
 		});
 	}
 
@@ -108,6 +98,7 @@ module.exports.modifyDocumentAsync = function(req, res, next, _db,
 			return res.status(500).json(err);
 		}
 		return res.status(200).json({
+			"status" : 1,
 			"msg" : "User modified successfully"
 		});
 
@@ -185,6 +176,7 @@ module.exports.findOneDocumentAsync = function(req, res, next, _db,
 			return res.status(200).json(obj);
 		}
 		return res.status(500).json({
+			"status" : -1,
 			"msg" : "Item not found"
 		});
 	});

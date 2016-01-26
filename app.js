@@ -110,7 +110,7 @@ app.post('/findOneUserAsync/', supportCrossOriginScript, function(req, res,
 
 });
 
-app.post('/loginAsync/', supportCrossOriginScript, function(req, res, next) {
+app.post('/login/', supportCrossOriginScript, function(req, res, next) {
 	var query;
 	var username = req.body.username;
 	var email = req.body.email;
@@ -131,11 +131,7 @@ app.post('/loginAsync/', supportCrossOriginScript, function(req, res, next) {
 });
 
 app.get('/verifyEmail/:id', function(req, res,next) {
-//	var objId = new ObjectID(req.params.id.toString());
-//	console.log(ObjectID(req.params.id.toString()));
-//	console.log(ObjectID.createFromHexString(req.params.id.toString()));
 	userServcice.verifyUser(req, res, next, _db, "UserAuth", {"_id":new ObjectID(req.params.id)});
-	
 });
 
 app.post('/config/', supportCrossOriginScript, function(req, res,

@@ -1,3 +1,5 @@
+#
+start mongod by promting db path to db/dump
 #Create Collections
 db.createCollection("UserAuth", { capped : false} )
 db.createCollection("Language", { capped : true,size:10000} )

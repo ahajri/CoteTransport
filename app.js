@@ -140,7 +140,7 @@ app.get('/verifyEmail/:id', function(req, res,next) {
 
 app.post('/config/', supportCrossOriginScript, function(req, res,
 		next) {
-	configServcice.initRef(req, res, next, _db);
+	configServcice.initRef(req, res, next, _db,'France');
 
 });
 

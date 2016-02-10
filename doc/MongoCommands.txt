@@ -3,3 +3,5 @@ start mongod by promting db path to db/dump
 #Create Collections
 db.createCollection("UserAuth", { capped : false} )
 db.createCollection("Language", { capped : true,size:10000} )
+#import json file
+mongoimport --db MSGSYSDB --collection GeoBusiness --drop --file C:\Users\ahajri\git\CoteTransport\data\ref\GeoBusiness.geojson -jsonArray

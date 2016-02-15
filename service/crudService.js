@@ -8,34 +8,31 @@ module.exports.addDocumentAsync = function(req, res, next, _db, collectionName,
 	var jsonData = req.body;
 	jsonData.password = securityUtils.md5(req.body.password);
 	async
-			.series(
-					[
-							// Check and Load user
-							function(callback) {
+		.series([// Check and Load user
+						function(callback) {
 
-								_db
-										.open(function(err, db) {
-											collection
-													.findOne(
-															query,
-															function(err, users) {
-																assert
-																		.ok(db != null);
-																if (err)
-																	return callback(err);
-																if (users) {
-																	return res
-																			.status(
-																					500)
-																			.json(
-																					{
-																						"error" : "Anotheritem with same identifiers already exits"
-																					});
-																}
-																callback();
-															});
-										});
-							},
+							_db.open(function(err, db) {
+									collection
+											.findOne(
+													query,
+													function(err, users) {
+														assert
+																.ok(db != null);
+														if (err)
+															return callback(err);
+														if (users) {
+															return res
+																	.status(
+																			500)
+																	.json(
+																			{
+																				"error" : "Anotheritem with same identifiers already exits"
+																			});
+														}
+														callback();
+													});
+								});
+						},
 							// insert user (won't be called before task 1's
 							// "task callback" has
 							// been called)
